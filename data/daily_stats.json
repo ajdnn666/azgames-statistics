@@ -1,0 +1,75 @@
+{
+  "timestamp": "2025-12-10T16:52:54.906195",
+  "top_10": [
+    {
+      "name": "Undead Invasion",
+      "url": "https://azgames.io/undead-invasion",
+      "current_likes": 96,
+      "previous_likes": 75,
+      "increase": 21
+    },
+    {
+      "name": "Bat Smash",
+      "url": "https://azgames.io/bat-smash",
+      "current_likes": 974,
+      "previous_likes": 963,
+      "increase": 11
+    },
+    {
+      "name": "Orbit Beats",
+      "url": "https://azgames.io/orbit-beats",
+      "current_likes": 681,
+      "previous_likes": 673,
+      "increase": 8
+    },
+    {
+      "name": "Merge Infinity",
+      "url": "https://azgames.io/merge-infinity",
+      "current_likes": 195,
+      "previous_likes": 188,
+      "increase": 7
+    },
+    {
+      "name": "Wheelie Party",
+      "url": "https://azgames.io/wheelie-party",
+      "current_likes": 241,
+      "previous_likes": 235,
+      "increase": 6
+    },
+    {
+      "name": "Mad Trails",
+      "url": "https://azgames.io/mad-trails",
+      "current_likes": 238,
+      "previous_likes": 235,
+      "increase": 3
+    },
+    {
+      "name": "Tap Drift",
+      "url": "https://azgames.io/tap-drift",
+      "current_likes": 551,
+      "previous_likes": 549,
+      "increase": 2
+    },
+    {
+      "name": "Hyper Tunnel",
+      "url": "https://azgames.io/hyper-tunnel",
+      "current_likes": 780,
+      "previous_likes": 779,
+      "increase": 1
+    },
+    {
+      "name": "Color Rhythm",
+      "url": "https://azgames.io/color-rhythm",
+      "current_likes": 439,
+      "previous_likes": 438,
+      "increase": 1
+    },
+    {
+      "name": "Slope Xtreme",
+      "url": "https://azgames.io/slope-xtreme",
+      "current_likes": 620,
+      "previous_likes": 619,
+      "increase": 1
+    }
+  ]
+}
