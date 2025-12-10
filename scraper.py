@@ -69,7 +69,8 @@ class GameScraper:
         self.driver.get(url)
         
         # 等待页面加载
-        time.sleep(3)
+        print("等待页面初始加载...")
+        time.sleep(5)  # 增加初始等待时间
         
         # 滚动页面以加载所有内容
         self._scroll_page()
@@ -121,16 +122,21 @@ class GameScraper:
                     parts = href.replace('https://', '').replace('http://', '').split('/')
                     if len(parts) < 2 or not parts[1]:
                         continue
+                    
+                    # 从URL中提取游戏名作为后备
+                    url_game_name = parts[1].replace('-', ' ').title()
                         
                     game_name = element.text.strip()
-                    if not game_name:
-                        # 尝试从href提取游戏名
-                        game_name = parts[1].replace('-', ' ').title()
                     
                     # 移除标签
                     for tag in ['New', 'Trending', 'Hot', 'Popular']:
                         game_name = game_name.replace(tag, '').strip()
                     
+                    # 如果移除标签后名字为空，使用URL中的名字
+                    if not game_name or len(game_name) < 2:
+                        game_name = url_game_name
+                    
+                    # 最终检查
                     if not game_name or len(game_name) < 2:
                         continue
                     
@@ -217,16 +223,27 @@ class GameScraper:
     
     def _scroll_page(self):
         """滚动页面以加载所有内容"""
+        print("开始滚动页面加载所有游戏...")
         last_height = self.driver.execute_script("return document.body.scrollHeight")
+        scroll_count = 0
+        max_scrolls = 10  # 最多滚动10次
         
-        for _ in range(3):  # 滚动3次
+        for i in range(max_scrolls):
+            # 滚动到底部
             self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(2)
+            scroll_count += 1
+            print(f"第 {scroll_count} 次滚动...")
+            time.sleep(3)  # 增加等待时间
             
+            # 检查页面高度是否变化
             new_height = self.driver.execute_script("return document.body.scrollHeight")
             if new_height == last_height:
+                print(f"页面高度不再变化，停止滚动")
                 break
             last_height = new_height
+        
+        print(f"滚动完成，共滚动 {scroll_count} 次")
+        time.sleep(2)  # 最后再等待一下
 
 
 if __name__ == '__main__':
