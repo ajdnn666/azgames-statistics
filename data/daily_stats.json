@@ -1,75 +1,75 @@
 {
-  "timestamp": "2025-12-13T23:23:57.108995",
+  "timestamp": "2025-12-14T23:24:41.658149",
   "top_10": [
+    {
+      "name": "Orbit Beats",
+      "url": "https://azgames.io/orbit-beats",
+      "current_likes": 933,
+      "previous_likes": 917,
+      "increase": 16
+    },
     {
       "name": "Stickman War",
       "url": "https://azgames.io/stickman-war",
-      "current_likes": 268,
-      "previous_likes": 222,
-      "increase": 46
+      "current_likes": 283,
+      "previous_likes": 268,
+      "increase": 15
     },
     {
       "name": "Undead Invasion",
       "url": "https://azgames.io/undead-invasion",
-      "current_likes": 423,
-      "previous_likes": 394,
-      "increase": 29
-    },
-    {
-      "name": "Orbit Beats",
-      "url": "https://azgames.io/orbit-beats",
-      "current_likes": 917,
-      "previous_likes": 901,
-      "increase": 16
+      "current_likes": 437,
+      "previous_likes": 423,
+      "increase": 14
     },
     {
       "name": "Tap Drift",
       "url": "https://azgames.io/tap-drift",
-      "current_likes": 761,
-      "previous_likes": 749,
-      "increase": 12
-    },
-    {
-      "name": "Dancing Beat",
-      "url": "https://azgames.io/dancing-beat",
-      "current_likes": 786,
-      "previous_likes": 776,
-      "increase": 10
+      "current_likes": 772,
+      "previous_likes": 761,
+      "increase": 11
     },
     {
       "name": "Wheelie Party",
       "url": "https://azgames.io/wheelie-party",
-      "current_likes": 387,
-      "previous_likes": 381,
-      "increase": 6
+      "current_likes": 394,
+      "previous_likes": 387,
+      "increase": 7
     },
     {
       "name": "Merge Infinity",
       "url": "https://azgames.io/merge-infinity",
-      "current_likes": 256,
-      "previous_likes": 250,
-      "increase": 6
+      "current_likes": 261,
+      "previous_likes": 256,
+      "increase": 5
     },
     {
-      "name": "Hyper Tunnel",
-      "url": "https://azgames.io/hyper-tunnel",
-      "current_likes": 832,
-      "previous_likes": 828,
+      "name": "Escape Drive",
+      "url": "https://azgames.io/escape-drive",
+      "current_likes": 780,
+      "previous_likes": 776,
       "increase": 4
     },
     {
-      "name": "Mad Racers",
-      "url": "https://azgames.io/mad-racers",
-      "current_likes": 661,
-      "previous_likes": 657,
-      "increase": 4
+      "name": "Color Rhythm",
+      "url": "https://azgames.io/color-rhythm",
+      "current_likes": 462,
+      "previous_likes": 459,
+      "increase": 3
     },
     {
-      "name": "Flamy Dash",
-      "url": "https://azgames.io/flamy-dash",
-      "current_likes": 687,
-      "previous_likes": 683,
-      "increase": 4
+      "name": "Dancing Beat",
+      "url": "https://azgames.io/dancing-beat",
+      "current_likes": 789,
+      "previous_likes": 786,
+      "increase": 3
+    },
+    {
+      "name": "Crafty Car",
+      "url": "https://azgames.io/crafty-car",
+      "current_likes": 261,
+      "previous_likes": 259,
+      "increase": 2
     }
   ]
 }
