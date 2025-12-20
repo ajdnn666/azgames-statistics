@@ -1,75 +1,75 @@
 {
-  "timestamp": "2025-12-19T23:25:05.664236",
+  "timestamp": "2025-12-20T23:25:00.617903",
   "top_10": [
+    {
+      "name": "Undead Invasion",
+      "url": "https://azgames.io/undead-invasion",
+      "current_likes": 977,
+      "previous_likes": 956,
+      "increase": 21
+    },
     {
       "name": "Tiny Arena",
       "url": "https://azgames.io/tiny-arena",
-      "current_likes": 466,
-      "previous_likes": 353,
-      "increase": 113
+      "current_likes": 484,
+      "previous_likes": 466,
+      "increase": 18
     },
     {
       "name": "Slide Down",
       "url": "https://azgames.io/slide-down",
-      "current_likes": 281,
-      "previous_likes": 187,
-      "increase": 94
-    },
-    {
-      "name": "Wheelie Master",
-      "url": "https://azgames.io/wheelie-master",
-      "current_likes": 91,
-      "previous_likes": 0,
-      "increase": 91
-    },
-    {
-      "name": "Undead Invasion",
-      "url": "https://azgames.io/undead-invasion",
-      "current_likes": 956,
-      "previous_likes": 866,
-      "increase": 90
-    },
-    {
-      "name": "Stickman War",
-      "url": "https://azgames.io/stickman-war",
-      "current_likes": 745,
-      "previous_likes": 686,
-      "increase": 59
-    },
-    {
-      "name": "Santa Run",
-      "url": "https://azgames.io/santa-run",
-      "current_likes": 252,
-      "previous_likes": 203,
-      "increase": 49
+      "current_likes": 297,
+      "previous_likes": 281,
+      "increase": 16
     },
     {
       "name": "Jelly Runner",
       "url": "https://azgames.io/jelly-runner",
-      "current_likes": 48,
-      "previous_likes": 0,
-      "increase": 48
+      "current_likes": 59,
+      "previous_likes": 48,
+      "increase": 11
     },
     {
-      "name": "Wheelie Party",
-      "url": "https://azgames.io/wheelie-party",
-      "current_likes": 617,
-      "previous_likes": 587,
-      "increase": 30
+      "name": "Stickman War",
+      "url": "https://azgames.io/stickman-war",
+      "current_likes": 756,
+      "previous_likes": 745,
+      "increase": 11
+    },
+    {
+      "name": "Wheelie Master",
+      "url": "https://azgames.io/wheelie-master",
+      "current_likes": 100,
+      "previous_likes": 91,
+      "increase": 9
     },
     {
       "name": "Hyper Tunnel",
       "url": "https://azgames.io/hyper-tunnel",
-      "current_likes": 915,
-      "previous_likes": 898,
-      "increase": 17
+      "current_likes": 921,
+      "previous_likes": 915,
+      "increase": 6
     },
     {
-      "name": "Bounce Path",
-      "url": "https://azgames.io/bounce-path",
-      "current_likes": 242,
-      "previous_likes": 226,
-      "increase": 16
+      "name": "Merge Infinity",
+      "url": "https://azgames.io/merge-infinity",
+      "current_likes": 359,
+      "previous_likes": 354,
+      "increase": 5
+    },
+    {
+      "name": "Santa Run",
+      "url": "https://azgames.io/santa-run",
+      "current_likes": 256,
+      "previous_likes": 252,
+      "increase": 4
+    },
+    {
+      "name": "Wheelie Party",
+      "url": "https://azgames.io/wheelie-party",
+      "current_likes": 621,
+      "previous_likes": 617,
+      "increase": 4
     }
   ]
 }
