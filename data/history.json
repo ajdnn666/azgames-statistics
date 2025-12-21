@@ -6303,5 +6303,490 @@
         "scraped_at": "2025-12-20T23:20:17.139253"
       }
     ]
+  },
+  {
+    "timestamp": "2025-12-21T23:24:59.923782",
+    "games": [
+      {
+        "name": "Wheelie Master",
+        "url": "https://azgames.io/wheelie-master",
+        "likes": 106,
+        "scraped_at": "2025-12-21T23:20:17.318170"
+      },
+      {
+        "name": "Jelly Runner",
+        "url": "https://azgames.io/jelly-runner",
+        "likes": 62,
+        "scraped_at": "2025-12-21T23:20:17.330927"
+      },
+      {
+        "name": "Slide Down",
+        "url": "https://azgames.io/slide-down",
+        "likes": 309,
+        "scraped_at": "2025-12-21T23:20:17.343164"
+      },
+      {
+        "name": "Tiny Arena",
+        "url": "https://azgames.io/tiny-arena",
+        "likes": 491,
+        "scraped_at": "2025-12-21T23:20:17.355087"
+      },
+      {
+        "name": "Santa Run",
+        "url": "https://azgames.io/santa-run",
+        "likes": 259,
+        "scraped_at": "2025-12-21T23:20:17.366947"
+      },
+      {
+        "name": "Bounce Path",
+        "url": "https://azgames.io/bounce-path",
+        "likes": 249,
+        "scraped_at": "2025-12-21T23:20:17.378611"
+      },
+      {
+        "name": "Stickman War",
+        "url": "https://azgames.io/stickman-war",
+        "likes": 762,
+        "scraped_at": "2025-12-21T23:20:17.390764"
+      },
+      {
+        "name": "Undead Invasion",
+        "url": "https://azgames.io/undead-invasion",
+        "likes": 991,
+        "scraped_at": "2025-12-21T23:20:17.402884"
+      },
+      {
+        "name": "Wheelie Party",
+        "url": "https://azgames.io/wheelie-party",
+        "likes": 623,
+        "scraped_at": "2025-12-21T23:20:17.415030"
+      },
+      {
+        "name": "Merge Infinity",
+        "url": "https://azgames.io/merge-infinity",
+        "likes": 361,
+        "scraped_at": "2025-12-21T23:20:17.426734"
+      },
+      {
+        "name": "Tap Drift",
+        "url": "https://azgames.io/tap-drift",
+        "likes": 1,
+        "scraped_at": "2025-12-21T23:20:17.438233"
+      },
+      {
+        "name": "Orbit Kick",
+        "url": "https://azgames.io/orbit-kick",
+        "likes": 2,
+        "scraped_at": "2025-12-21T23:20:17.449991"
+      },
+      {
+        "name": "Bat Smash",
+        "url": "https://azgames.io/bat-smash",
+        "likes": 1,
+        "scraped_at": "2025-12-21T23:20:17.461978"
+      },
+      {
+        "name": "Orbit Beats",
+        "url": "https://azgames.io/orbit-beats",
+        "likes": 1,
+        "scraped_at": "2025-12-21T23:20:17.473898"
+      },
+      {
+        "name": "Crafty Car",
+        "url": "https://azgames.io/crafty-car",
+        "likes": 294,
+        "scraped_at": "2025-12-21T23:20:17.485709"
+      },
+      {
+        "name": "City Brawl",
+        "url": "https://azgames.io/city-brawl",
+        "likes": 1,
+        "scraped_at": "2025-12-21T23:20:17.497542"
+      },
+      {
+        "name": "Mad Trails",
+        "url": "https://azgames.io/mad-trails",
+        "likes": 280,
+        "scraped_at": "2025-12-21T23:20:17.509699"
+      },
+      {
+        "name": "Hyper Tunnel",
+        "url": "https://azgames.io/hyper-tunnel",
+        "likes": 924,
+        "scraped_at": "2025-12-21T23:20:17.521616"
+      },
+      {
+        "name": "Blocky Rider",
+        "url": "https://azgames.io/blocky-rider",
+        "likes": 536,
+        "scraped_at": "2025-12-21T23:20:17.533416"
+      },
+      {
+        "name": "Flying Ball",
+        "url": "https://azgames.io/flying-ball",
+        "likes": 507,
+        "scraped_at": "2025-12-21T23:20:17.545191"
+      },
+      {
+        "name": "Color Rhythm",
+        "url": "https://azgames.io/color-rhythm",
+        "likes": 492,
+        "scraped_at": "2025-12-21T23:20:17.556753"
+      },
+      {
+        "name": "Ramp Xtreme",
+        "url": "https://azgames.io/ramp-xtreme",
+        "likes": 1,
+        "scraped_at": "2025-12-21T23:20:17.569014"
+      },
+      {
+        "name": "Dancing Beat",
+        "url": "https://azgames.io/dancing-beat",
+        "likes": 861,
+        "scraped_at": "2025-12-21T23:20:17.581122"
+      },
+      {
+        "name": "Cowboy Safari",
+        "url": "https://azgames.io/cowboy-safari",
+        "likes": 4,
+        "scraped_at": "2025-12-21T23:20:17.593228"
+      },
+      {
+        "name": "Escape Drive",
+        "url": "https://azgames.io/escape-drive",
+        "likes": 819,
+        "scraped_at": "2025-12-21T23:20:17.605169"
+      },
+      {
+        "name": "Mad Racers",
+        "url": "https://azgames.io/mad-racers",
+        "likes": 700,
+        "scraped_at": "2025-12-21T23:20:17.617353"
+      },
+      {
+        "name": "Steal Brainrots",
+        "url": "https://azgames.io/steal-brainrots",
+        "likes": 4,
+        "scraped_at": "2025-12-21T23:20:17.630200"
+      },
+      {
+        "name": "Slope Xtreme",
+        "url": "https://azgames.io/slope-xtreme",
+        "likes": 664,
+        "scraped_at": "2025-12-21T23:20:17.642307"
+      },
+      {
+        "name": "Mad Pursuit",
+        "url": "https://azgames.io/mad-pursuit",
+        "likes": 561,
+        "scraped_at": "2025-12-21T23:20:17.654223"
+      },
+      {
+        "name": "Undead Corridor",
+        "url": "https://azgames.io/undead-corridor",
+        "likes": 7,
+        "scraped_at": "2025-12-21T23:20:17.666084"
+      },
+      {
+        "name": "Color Jump",
+        "url": "https://azgames.io/color-jump",
+        "likes": 365,
+        "scraped_at": "2025-12-21T23:20:17.678045"
+      },
+      {
+        "name": "Blendrix",
+        "url": "https://azgames.io/blendrix",
+        "likes": 238,
+        "scraped_at": "2025-12-21T23:20:17.690052"
+      },
+      {
+        "name": "Stack Rush",
+        "url": "https://azgames.io/stack-rush",
+        "likes": 396,
+        "scraped_at": "2025-12-21T23:20:17.702096"
+      },
+      {
+        "name": "Rocket Fortress",
+        "url": "https://azgames.io/rocket-fortress",
+        "likes": 4,
+        "scraped_at": "2025-12-21T23:20:17.713952"
+      },
+      {
+        "name": "Perfect Orbit",
+        "url": "https://azgames.io/perfect-orbit",
+        "likes": 1,
+        "scraped_at": "2025-12-21T23:20:17.725827"
+      },
+      {
+        "name": "Planet Buster",
+        "url": "https://azgames.io/planet-buster",
+        "likes": 1,
+        "scraped_at": "2025-12-21T23:20:17.737743"
+      },
+      {
+        "name": "Stickman Empires",
+        "url": "https://azgames.io/stickman-empires",
+        "likes": 3,
+        "scraped_at": "2025-12-21T23:20:17.753082"
+      },
+      {
+        "name": "Chase Rush",
+        "url": "https://azgames.io/chase-rush",
+        "likes": 1,
+        "scraped_at": "2025-12-21T23:20:17.766670"
+      },
+      {
+        "name": "Swipe Ball",
+        "url": "https://azgames.io/swipe-ball",
+        "likes": 682,
+        "scraped_at": "2025-12-21T23:20:17.778911"
+      },
+      {
+        "name": "Mr Flip",
+        "url": "https://azgames.io/mr-flip",
+        "likes": 3,
+        "scraped_at": "2025-12-21T23:20:17.790753"
+      },
+      {
+        "name": "Blocky Rush",
+        "url": "https://azgames.io/blocky-rush",
+        "likes": 251,
+        "scraped_at": "2025-12-21T23:20:17.802794"
+      },
+      {
+        "name": "Steel Legion",
+        "url": "https://azgames.io/steel-legion",
+        "likes": 963,
+        "scraped_at": "2025-12-21T23:20:17.814787"
+      },
+      {
+        "name": "Subway Moto",
+        "url": "https://azgames.io/subway-moto",
+        "likes": 423,
+        "scraped_at": "2025-12-21T23:20:17.826503"
+      },
+      {
+        "name": "Bounce Up",
+        "url": "https://azgames.io/bounce-up",
+        "likes": 911,
+        "scraped_at": "2025-12-21T23:20:17.838074"
+      },
+      {
+        "name": "Escape Raid",
+        "url": "https://azgames.io/escape-raid",
+        "likes": 910,
+        "scraped_at": "2025-12-21T23:20:17.849823"
+      },
+      {
+        "name": "Madness Lab",
+        "url": "https://azgames.io/madness-lab",
+        "likes": 452,
+        "scraped_at": "2025-12-21T23:20:17.861528"
+      },
+      {
+        "name": "Flamy Dash",
+        "url": "https://azgames.io/flamy-dash",
+        "likes": 698,
+        "scraped_at": "2025-12-21T23:20:17.873229"
+      },
+      {
+        "name": "Escape Bear",
+        "url": "https://azgames.io/escape-bear",
+        "likes": 687,
+        "scraped_at": "2025-12-21T23:20:17.885115"
+      },
+      {
+        "name": "Chicken Flip",
+        "url": "https://azgames.io/chicken-flip",
+        "likes": 577,
+        "scraped_at": "2025-12-21T23:20:17.897749"
+      },
+      {
+        "name": "Curve Rush Io",
+        "url": "https://azgames.io/curve-rush-io",
+        "likes": 649,
+        "scraped_at": "2025-12-21T23:20:17.909475"
+      },
+      {
+        "name": "Stickman Slash",
+        "url": "https://azgames.io/stickman-slash",
+        "likes": 2,
+        "scraped_at": "2025-12-21T23:20:17.921152"
+      },
+      {
+        "name": "Kickback Dash",
+        "url": "https://azgames.io/kickback-dash",
+        "likes": 2,
+        "scraped_at": "2025-12-21T23:20:17.933226"
+      },
+      {
+        "name": "Hoop Legends",
+        "url": "https://azgames.io/hoop-legends",
+        "likes": 290,
+        "scraped_at": "2025-12-21T23:20:17.944780"
+      },
+      {
+        "name": "Lizard Lizard Clicker",
+        "url": "https://azgames.io/lizard-lizard-clicker",
+        "likes": 1,
+        "scraped_at": "2025-12-21T23:20:17.956895"
+      },
+      {
+        "name": "Meme Puzzle",
+        "url": "https://azgames.io/meme-puzzle",
+        "likes": 187,
+        "scraped_at": "2025-12-21T23:20:17.968840"
+      },
+      {
+        "name": "Slope Rider",
+        "url": "https://azgames.io/slope-rider",
+        "likes": 6,
+        "scraped_at": "2025-12-21T23:20:17.980807"
+      },
+      {
+        "name": "Neon Leap",
+        "url": "https://azgames.io/neon-leap",
+        "likes": 1,
+        "scraped_at": "2025-12-21T23:20:17.992564"
+      },
+      {
+        "name": "Labubu Clicker",
+        "url": "https://azgames.io/labubu-clicker",
+        "likes": 2,
+        "scraped_at": "2025-12-21T23:20:18.004958"
+      },
+      {
+        "name": "Curve Rush 2",
+        "url": "https://azgames.io/curve-rush-2",
+        "likes": 1,
+        "scraped_at": "2025-12-21T23:20:18.016481"
+      },
+      {
+        "name": "Deer Adventure",
+        "url": "https://azgames.io/deer-adventure",
+        "likes": 5,
+        "scraped_at": "2025-12-21T23:20:18.028195"
+      },
+      {
+        "name": "Trimerge",
+        "url": "https://azgames.io/trimerge",
+        "likes": 95,
+        "scraped_at": "2025-12-21T23:20:18.039988"
+      },
+      {
+        "name": "Icy Dash",
+        "url": "https://azgames.io/icy-dash",
+        "likes": 545,
+        "scraped_at": "2025-12-21T23:20:18.051602"
+      },
+      {
+        "name": "Mamas Cookeria",
+        "url": "https://azgames.io/mamas-cookeria",
+        "likes": 277,
+        "scraped_at": "2025-12-21T23:20:18.063378"
+      },
+      {
+        "name": "Billiards Master",
+        "url": "https://azgames.io/billiards-master",
+        "likes": 547,
+        "scraped_at": "2025-12-21T23:20:18.075383"
+      },
+      {
+        "name": "American Truck Driving",
+        "url": "https://azgames.io/american-truck-driving",
+        "likes": 393,
+        "scraped_at": "2025-12-21T23:20:18.087311"
+      },
+      {
+        "name": "Dude Theft Auto",
+        "url": "https://azgames.io/dude-theft-auto",
+        "likes": 3,
+        "scraped_at": "2025-12-21T23:20:18.099285"
+      },
+      {
+        "name": "Loot And Scoot",
+        "url": "https://azgames.io/loot-and-scoot",
+        "likes": 125,
+        "scraped_at": "2025-12-21T23:20:18.111327"
+      },
+      {
+        "name": "Dunk Dash",
+        "url": "https://azgames.io/dunk-dash",
+        "likes": 505,
+        "scraped_at": "2025-12-21T23:20:18.123517"
+      },
+      {
+        "name": "Fury Chase 2",
+        "url": "https://azgames.io/fury-chase-2",
+        "likes": 188,
+        "scraped_at": "2025-12-21T23:20:18.135277"
+      },
+      {
+        "name": "Snowtrail Legends",
+        "url": "https://azgames.io/snowtrail-legends",
+        "likes": 276,
+        "scraped_at": "2025-12-21T23:20:18.146926"
+      },
+      {
+        "name": "Tic Tac Toe Io",
+        "url": "https://azgames.io/tic-tac-toe-io",
+        "likes": 178,
+        "scraped_at": "2025-12-21T23:20:18.158553"
+      },
+      {
+        "name": "Ball Orbit",
+        "url": "https://azgames.io/ball-orbit",
+        "likes": 1,
+        "scraped_at": "2025-12-21T23:20:18.170196"
+      },
+      {
+        "name": "Fun Typing Io",
+        "url": "https://azgames.io/fun-typing-io",
+        "likes": 287,
+        "scraped_at": "2025-12-21T23:20:18.181967"
+      },
+      {
+        "name": "Mayhem Drive",
+        "url": "https://azgames.io/mayhem-drive",
+        "likes": 321,
+        "scraped_at": "2025-12-21T23:20:18.194019"
+      },
+      {
+        "name": "Arcade Volley",
+        "url": "https://azgames.io/arcade-volley",
+        "likes": 491,
+        "scraped_at": "2025-12-21T23:20:18.206004"
+      },
+      {
+        "name": "Fire Flush",
+        "url": "https://azgames.io/fire-flush",
+        "likes": 444,
+        "scraped_at": "2025-12-21T23:20:18.218216"
+      },
+      {
+        "name": "God Simulator",
+        "url": "https://azgames.io/god-simulator",
+        "likes": 413,
+        "scraped_at": "2025-12-21T23:20:18.230229"
+      },
+      {
+        "name": "Block Blast 3D",
+        "url": "https://azgames.io/block-blast-3d",
+        "likes": 90,
+        "scraped_at": "2025-12-21T23:20:18.242098"
+      },
+      {
+        "name": "Doom Rider",
+        "url": "https://azgames.io/doom-rider",
+        "likes": 344,
+        "scraped_at": "2025-12-21T23:20:18.254163"
+      },
+      {
+        "name": "Wacky Nursery 2",
+        "url": "https://azgames.io/wacky-nursery-2",
+        "likes": 398,
+        "scraped_at": "2025-12-21T23:20:18.266597"
+      }
+    ]
   }
 ]
