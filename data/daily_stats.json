@@ -1,74 +1,74 @@
 {
-  "timestamp": "2025-12-26T23:25:13.744370",
+  "timestamp": "2025-12-27T23:25:36.614343",
   "top_10": [
-    {
-      "name": "Car Chaos",
-      "url": "https://azgames.io/car-chaos",
-      "current_likes": 40,
-      "previous_likes": 31,
-      "increase": 9
-    },
     {
       "name": "Arcade Tennis",
       "url": "https://azgames.io/arcade-tennis",
-      "current_likes": 6,
-      "previous_likes": 0,
-      "increase": 6
+      "current_likes": 17,
+      "previous_likes": 6,
+      "increase": 11
     },
     {
-      "name": "Slide Down",
-      "url": "https://azgames.io/slide-down",
-      "current_likes": 357,
-      "previous_likes": 351,
-      "increase": 6
+      "name": "Car Chaos",
+      "url": "https://azgames.io/car-chaos",
+      "current_likes": 50,
+      "previous_likes": 40,
+      "increase": 10
     },
     {
       "name": "Tap Rich Idle",
       "url": "https://azgames.io/tap-rich-idle",
-      "current_likes": 90,
-      "previous_likes": 86,
-      "increase": 4
+      "current_likes": 98,
+      "previous_likes": 90,
+      "increase": 8
+    },
+    {
+      "name": "Slide Down",
+      "url": "https://azgames.io/slide-down",
+      "current_likes": 362,
+      "previous_likes": 357,
+      "increase": 5
     },
     {
       "name": "Wheelie Master",
       "url": "https://azgames.io/wheelie-master",
-      "current_likes": 138,
-      "previous_likes": 135,
-      "increase": 3
-    },
-    {
-      "name": "Santa Run",
-      "url": "https://azgames.io/santa-run",
-      "current_likes": 272,
-      "previous_likes": 269,
-      "increase": 3
+      "current_likes": 142,
+      "previous_likes": 138,
+      "increase": 4
     },
     {
       "name": "Tiny Arena",
       "url": "https://azgames.io/tiny-arena",
-      "current_likes": 533,
-      "previous_likes": 531,
+      "current_likes": 537,
+      "previous_likes": 533,
+      "increase": 4
+    },
+    {
+      "name": "Wheelie Party",
+      "url": "https://azgames.io/wheelie-party",
+      "current_likes": 637,
+      "previous_likes": 635,
       "increase": 2
     },
     {
-      "name": "Bounce Path",
-      "url": "https://azgames.io/bounce-path",
-      "current_likes": 263,
-      "previous_likes": 261,
+      "name": "Hyper Tunnel",
+      "url": "https://azgames.io/hyper-tunnel",
+      "current_likes": 934,
+      "previous_likes": 932,
       "increase": 2
     },
     {
-      "name": "Blocky Rider",
-      "url": "https://azgames.io/blocky-rider",
-      "current_likes": 545,
-      "previous_likes": 543,
+      "name": "Color Rhythm",
+      "url": "https://azgames.io/color-rhythm",
+      "current_likes": 501,
+      "previous_likes": 499,
       "increase": 2
     },
     {
-      "name": "Stack Rush",
-      "url": "https://azgames.io/stack-rush",
-      "current_likes": 400,
-      "previous_likes": 398,
+      "name": "Curve Rush Io",
+      "url": "https://azgames.io/curve-rush-io",
+      "current_likes": 654,
+      "previous_likes": 652,
       "increase": 2
     }
   ]
