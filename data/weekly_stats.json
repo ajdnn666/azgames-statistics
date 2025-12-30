@@ -1,75 +1,75 @@
 {
-  "timestamp": "2025-12-29T23:25:32.507511",
+  "timestamp": "2025-12-30T23:24:58.331502",
   "top_10": [
-    {
-      "name": "Tap Rich Idle",
-      "url": "https://azgames.io/tap-rich-idle",
-      "current_likes": 109,
-      "previous_likes": 0,
-      "increase": 109
-    },
     {
       "name": "Car Chaos",
       "url": "https://azgames.io/car-chaos",
-      "current_likes": 64,
+      "current_likes": 74,
       "previous_likes": 0,
-      "increase": 64
+      "increase": 74
+    },
+    {
+      "name": "Tap Rich Idle",
+      "url": "https://azgames.io/tap-rich-idle",
+      "current_likes": 113,
+      "previous_likes": 46,
+      "increase": 67
     },
     {
       "name": "Slide Down",
       "url": "https://azgames.io/slide-down",
-      "current_likes": 366,
-      "previous_likes": 309,
-      "increase": 57
+      "current_likes": 370,
+      "previous_likes": 327,
+      "increase": 43
+    },
+    {
+      "name": "Arcade Tennis",
+      "url": "https://azgames.io/arcade-tennis",
+      "current_likes": 39,
+      "previous_likes": 0,
+      "increase": 39
+    },
+    {
+      "name": "Wheelie Master",
+      "url": "https://azgames.io/wheelie-master",
+      "current_likes": 155,
+      "previous_likes": 117,
+      "increase": 38
     },
     {
       "name": "Tiny Arena",
       "url": "https://azgames.io/tiny-arena",
       "current_likes": 542,
-      "previous_likes": 491,
-      "increase": 51
-    },
-    {
-      "name": "Wheelie Master",
-      "url": "https://azgames.io/wheelie-master",
-      "current_likes": 150,
-      "previous_likes": 106,
-      "increase": 44
-    },
-    {
-      "name": "Arcade Tennis",
-      "url": "https://azgames.io/arcade-tennis",
-      "current_likes": 35,
-      "previous_likes": 0,
-      "increase": 35
+      "previous_likes": 509,
+      "increase": 33
     },
     {
       "name": "Stickman War",
       "url": "https://azgames.io/stickman-war",
       "current_likes": 796,
-      "previous_likes": 762,
-      "increase": 34
+      "previous_likes": 773,
+      "increase": 23
+    },
+    {
+      "name": "Dunk Clash",
+      "url": "https://azgames.io/dunk-clash",
+      "current_likes": 21,
+      "previous_likes": 0,
+      "increase": 21
     },
     {
       "name": "Jelly Runner",
       "url": "https://azgames.io/jelly-runner",
       "current_likes": 91,
-      "previous_likes": 62,
-      "increase": 29
-    },
-    {
-      "name": "Bounce Path",
-      "url": "https://azgames.io/bounce-path",
-      "current_likes": 269,
-      "previous_likes": 249,
+      "previous_likes": 71,
       "increase": 20
     },
     {
       "name": "Santa Run",
       "url": "https://azgames.io/santa-run",
       "current_likes": 278,
-      "previous_likes": 259,
-      "increase": 19
+      "previous_likes": 262,
+      "increase": 16
     }
   ]
 }
