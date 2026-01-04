@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-01-03T23:25:08.063223",
+  "timestamp": "2026-01-04T23:25:47.439473",
   "top_10": [
+    {
+      "name": "Loop Crash",
+      "url": "https://azgames.io/loop-crash",
+      "current_likes": 23,
+      "previous_likes": 15,
+      "increase": 8
+    },
     {
       "name": "Spin Blast",
       "url": "https://azgames.io/spin-blast",
-      "current_likes": 15,
-      "previous_likes": 5,
-      "increase": 10
+      "current_likes": 20,
+      "previous_likes": 15,
+      "increase": 5
     },
     {
       "name": "Dunk Clash",
       "url": "https://azgames.io/dunk-clash",
-      "current_likes": 67,
-      "previous_likes": 57,
-      "increase": 10
-    },
-    {
-      "name": "Loop Crash",
-      "url": "https://azgames.io/loop-crash",
-      "current_likes": 15,
-      "previous_likes": 9,
-      "increase": 6
-    },
-    {
-      "name": "Car Chaos",
-      "url": "https://azgames.io/car-chaos",
-      "current_likes": 94,
-      "previous_likes": 88,
-      "increase": 6
+      "current_likes": 72,
+      "previous_likes": 67,
+      "increase": 5
     },
     {
       "name": "Arcade Tennis",
       "url": "https://azgames.io/arcade-tennis",
-      "current_likes": 56,
-      "previous_likes": 52,
+      "current_likes": 60,
+      "previous_likes": 56,
       "increase": 4
-    },
-    {
-      "name": "Tiny Arena",
-      "url": "https://azgames.io/tiny-arena",
-      "current_likes": 549,
-      "previous_likes": 546,
-      "increase": 3
     },
     {
       "name": "Tap Rich Idle",
       "url": "https://azgames.io/tap-rich-idle",
-      "current_likes": 125,
-      "previous_likes": 123,
-      "increase": 2
+      "current_likes": 129,
+      "previous_likes": 125,
+      "increase": 4
     },
     {
-      "name": "Crafty Car",
-      "url": "https://azgames.io/crafty-car",
-      "current_likes": 300,
-      "previous_likes": 298,
-      "increase": 2
-    },
-    {
-      "name": "Wheelie Master",
-      "url": "https://azgames.io/wheelie-master",
-      "current_likes": 158,
-      "previous_likes": 157,
-      "increase": 1
+      "name": "Car Chaos",
+      "url": "https://azgames.io/car-chaos",
+      "current_likes": 97,
+      "previous_likes": 94,
+      "increase": 3
     },
     {
       "name": "Jelly Runner",
       "url": "https://azgames.io/jelly-runner",
-      "current_likes": 97,
-      "previous_likes": 96,
-      "increase": 1
+      "current_likes": 100,
+      "previous_likes": 97,
+      "increase": 3
+    },
+    {
+      "name": "Wheelie Master",
+      "url": "https://azgames.io/wheelie-master",
+      "current_likes": 160,
+      "previous_likes": 158,
+      "increase": 2
+    },
+    {
+      "name": "Slide Down",
+      "url": "https://azgames.io/slide-down",
+      "current_likes": 382,
+      "previous_likes": 380,
+      "increase": 2
+    },
+    {
+      "name": "Merge Infinity",
+      "url": "https://azgames.io/merge-infinity",
+      "current_likes": 376,
+      "previous_likes": 374,
+      "increase": 2
     }
   ]
 }
