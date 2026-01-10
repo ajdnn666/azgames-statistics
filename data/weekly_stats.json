@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-01-09T23:26:53.732728",
+  "timestamp": "2026-01-10T23:25:32.450560",
   "top_10": [
     {
       "name": "Glide In",
       "url": "https://azgames.io/glide-in",
-      "current_likes": 896,
+      "current_likes": 925,
       "previous_likes": 0,
-      "increase": 896
+      "increase": 925
     },
     {
       "name": "Dunk Clash",
       "url": "https://azgames.io/dunk-clash",
-      "current_likes": 404,
-      "previous_likes": 57,
-      "increase": 347
-    },
-    {
-      "name": "Car Chaos",
-      "url": "https://azgames.io/car-chaos",
-      "current_likes": 424,
-      "previous_likes": 88,
-      "increase": 336
+      "current_likes": 415,
+      "previous_likes": 67,
+      "increase": 348
     },
     {
       "name": "Updated",
       "url": "https://azgames.io/slide-down",
-      "current_likes": 704,
-      "previous_likes": 379,
-      "increase": 325
+      "current_likes": 725,
+      "previous_likes": 380,
+      "increase": 345
+    },
+    {
+      "name": "Car Chaos",
+      "url": "https://azgames.io/car-chaos",
+      "current_likes": 436,
+      "previous_likes": 94,
+      "increase": 342
     },
     {
       "name": "Dino Age",
       "url": "https://azgames.io/dino-age",
-      "current_likes": 280,
+      "current_likes": 297,
       "previous_likes": 0,
-      "increase": 280
-    },
-    {
-      "name": "Arcade Tennis",
-      "url": "https://azgames.io/arcade-tennis",
-      "current_likes": 245,
-      "previous_likes": 52,
-      "increase": 193
-    },
-    {
-      "name": "Loop Crash",
-      "url": "https://azgames.io/loop-crash",
-      "current_likes": 195,
-      "previous_likes": 9,
-      "increase": 186
+      "increase": 297
     },
     {
       "name": "Police Drive",
       "url": "https://azgames.io/police-drive",
-      "current_likes": 170,
+      "current_likes": 196,
       "previous_likes": 0,
-      "increase": 170
+      "increase": 196
+    },
+    {
+      "name": "Arcade Tennis",
+      "url": "https://azgames.io/arcade-tennis",
+      "current_likes": 248,
+      "previous_likes": 56,
+      "increase": 192
+    },
+    {
+      "name": "Loop Crash",
+      "url": "https://azgames.io/loop-crash",
+      "current_likes": 202,
+      "previous_likes": 15,
+      "increase": 187
     },
     {
       "name": "Wheelie Master",
       "url": "https://azgames.io/wheelie-master",
-      "current_likes": 326,
-      "previous_likes": 157,
-      "increase": 169
+      "current_likes": 333,
+      "previous_likes": 158,
+      "increase": 175
     },
     {
       "name": "Tiny Arena",
       "url": "https://azgames.io/tiny-arena",
-      "current_likes": 712,
-      "previous_likes": 546,
-      "increase": 166
+      "current_likes": 720,
+      "previous_likes": 549,
+      "increase": 171
     }
   ]
 }
