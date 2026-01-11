@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-01-10T23:25:32.450560",
+  "timestamp": "2026-01-11T23:25:37.904320",
   "top_10": [
     {
       "name": "Glide In",
       "url": "https://azgames.io/glide-in",
-      "current_likes": 925,
+      "current_likes": 943,
       "previous_likes": 0,
-      "increase": 925
+      "increase": 943
     },
     {
       "name": "Dunk Clash",
       "url": "https://azgames.io/dunk-clash",
-      "current_likes": 415,
+      "current_likes": 424,
       "previous_likes": 67,
-      "increase": 348
+      "increase": 357
     },
     {
       "name": "Updated",
       "url": "https://azgames.io/slide-down",
-      "current_likes": 725,
+      "current_likes": 735,
       "previous_likes": 380,
-      "increase": 345
+      "increase": 355
     },
     {
       "name": "Car Chaos",
       "url": "https://azgames.io/car-chaos",
-      "current_likes": 436,
+      "current_likes": 444,
       "previous_likes": 94,
-      "increase": 342
+      "increase": 350
     },
     {
       "name": "Dino Age",
       "url": "https://azgames.io/dino-age",
-      "current_likes": 297,
+      "current_likes": 311,
       "previous_likes": 0,
-      "increase": 297
+      "increase": 311
     },
     {
       "name": "Police Drive",
       "url": "https://azgames.io/police-drive",
-      "current_likes": 196,
+      "current_likes": 222,
       "previous_likes": 0,
-      "increase": 196
+      "increase": 222
     },
     {
       "name": "Arcade Tennis",
       "url": "https://azgames.io/arcade-tennis",
-      "current_likes": 248,
+      "current_likes": 251,
       "previous_likes": 56,
-      "increase": 192
+      "increase": 195
     },
     {
       "name": "Loop Crash",
       "url": "https://azgames.io/loop-crash",
-      "current_likes": 202,
+      "current_likes": 204,
       "previous_likes": 15,
-      "increase": 187
+      "increase": 189
     },
     {
       "name": "Wheelie Master",
       "url": "https://azgames.io/wheelie-master",
-      "current_likes": 333,
+      "current_likes": 340,
       "previous_likes": 158,
-      "increase": 175
+      "increase": 182
     },
     {
       "name": "Tiny Arena",
       "url": "https://azgames.io/tiny-arena",
-      "current_likes": 720,
+      "current_likes": 724,
       "previous_likes": 549,
-      "increase": 171
+      "increase": 175
     }
   ]
 }
