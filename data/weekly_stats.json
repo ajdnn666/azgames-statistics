@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-01-15T23:27:30.842241",
+  "timestamp": "2026-01-16T23:26:33.426902",
   "top_10": [
     {
       "name": "Plants Vs Brainrots Online",
       "url": "https://azgames.io/plants-vs-brainrots-online",
-      "current_likes": 652,
+      "current_likes": 745,
       "previous_likes": 0,
-      "increase": 652
-    },
-    {
-      "name": "Police Drive",
-      "url": "https://azgames.io/police-drive",
-      "current_likes": 501,
-      "previous_likes": 0,
-      "increase": 501
+      "increase": 745
     },
     {
       "name": "Animal Craft",
       "url": "https://azgames.io/animal-craft",
-      "current_likes": 487,
+      "current_likes": 690,
       "previous_likes": 0,
-      "increase": 487
+      "increase": 690
+    },
+    {
+      "name": "Police Drive",
+      "url": "https://azgames.io/police-drive",
+      "current_likes": 563,
+      "previous_likes": 0,
+      "increase": 563
     },
     {
       "name": "Dino Age",
       "url": "https://azgames.io/dino-age",
-      "current_likes": 541,
+      "current_likes": 595,
       "previous_likes": 191,
-      "increase": 350
+      "increase": 404
     },
     {
       "name": "Car Chaos",
       "url": "https://azgames.io/car-chaos",
-      "current_likes": 666,
+      "current_likes": 736,
       "previous_likes": 338,
-      "increase": 328
+      "increase": 398
     },
     {
       "name": "Dunk Clash",
       "url": "https://azgames.io/dunk-clash",
-      "current_likes": 646,
+      "current_likes": 704,
       "previous_likes": 327,
-      "increase": 319
+      "increase": 377
+    },
+    {
+      "name": "Horror Nun",
+      "url": "https://azgames.io/horror-nun",
+      "current_likes": 309,
+      "previous_likes": 0,
+      "increase": 309
     },
     {
       "name": "Wheelie Master",
       "url": "https://azgames.io/wheelie-master",
-      "current_likes": 480,
+      "current_likes": 538,
       "previous_likes": 276,
-      "increase": 204
+      "increase": 262
     },
     {
       "name": "Tiny Arena",
       "url": "https://azgames.io/tiny-arena",
-      "current_likes": 841,
+      "current_likes": 873,
       "previous_likes": 650,
-      "increase": 191
+      "increase": 223
     },
     {
-      "name": "Arcade Tennis",
-      "url": "https://azgames.io/arcade-tennis",
-      "current_likes": 334,
-      "previous_likes": 204,
-      "increase": 130
-    },
-    {
-      "name": "Loop Crash",
-      "url": "https://azgames.io/loop-crash",
-      "current_likes": 283,
-      "previous_likes": 159,
-      "increase": 124
+      "name": "Jelly Runner",
+      "url": "https://azgames.io/jelly-runner",
+      "current_likes": 322,
+      "previous_likes": 170,
+      "increase": 152
     }
   ]
 }
