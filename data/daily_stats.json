@@ -1,74 +1,74 @@
 {
-  "timestamp": "2026-01-17T23:25:30.302521",
+  "timestamp": "2026-01-18T23:25:29.883698",
   "top_10": [
+    {
+      "name": "Plants Vs Brainrots Online",
+      "url": "https://azgames.io/plants-vs-brainrots-online",
+      "current_likes": 784,
+      "previous_likes": 765,
+      "increase": 19
+    },
     {
       "name": "Animal Craft",
       "url": "https://azgames.io/animal-craft",
-      "current_likes": 724,
-      "previous_likes": 690,
-      "increase": 34
+      "current_likes": 738,
+      "previous_likes": 724,
+      "increase": 14
     },
     {
       "name": "Horror Nun",
       "url": "https://azgames.io/horror-nun",
-      "current_likes": 336,
-      "previous_likes": 309,
-      "increase": 27
-    },
-    {
-      "name": "Plants Vs Brainrots Online",
-      "url": "https://azgames.io/plants-vs-brainrots-online",
-      "current_likes": 765,
-      "previous_likes": 745,
-      "increase": 20
-    },
-    {
-      "name": "Police Drive",
-      "url": "https://azgames.io/police-drive",
-      "current_likes": 581,
-      "previous_likes": 563,
-      "increase": 18
-    },
-    {
-      "name": "Dino Age",
-      "url": "https://azgames.io/dino-age",
-      "current_likes": 607,
-      "previous_likes": 595,
+      "current_likes": 348,
+      "previous_likes": 336,
       "increase": 12
-    },
-    {
-      "name": "Wheelie Master",
-      "url": "https://azgames.io/wheelie-master",
-      "current_likes": 549,
-      "previous_likes": 538,
-      "increase": 11
-    },
-    {
-      "name": "Tiny Arena",
-      "url": "https://azgames.io/tiny-arena",
-      "current_likes": 880,
-      "previous_likes": 873,
-      "increase": 7
-    },
-    {
-      "name": "Dunk Clash",
-      "url": "https://azgames.io/dunk-clash",
-      "current_likes": 710,
-      "previous_likes": 704,
-      "increase": 6
-    },
-    {
-      "name": "Bounce Path",
-      "url": "https://azgames.io/bounce-path",
-      "current_likes": 331,
-      "previous_likes": 326,
-      "increase": 5
     },
     {
       "name": "Car Chaos",
       "url": "https://azgames.io/car-chaos",
-      "current_likes": 740,
-      "previous_likes": 736,
+      "current_likes": 750,
+      "previous_likes": 740,
+      "increase": 10
+    },
+    {
+      "name": "Police Drive",
+      "url": "https://azgames.io/police-drive",
+      "current_likes": 589,
+      "previous_likes": 581,
+      "increase": 8
+    },
+    {
+      "name": "Dino Age",
+      "url": "https://azgames.io/dino-age",
+      "current_likes": 615,
+      "previous_likes": 607,
+      "increase": 8
+    },
+    {
+      "name": "Wheelie Master",
+      "url": "https://azgames.io/wheelie-master",
+      "current_likes": 557,
+      "previous_likes": 549,
+      "increase": 8
+    },
+    {
+      "name": "Dunk Clash",
+      "url": "https://azgames.io/dunk-clash",
+      "current_likes": 716,
+      "previous_likes": 710,
+      "increase": 6
+    },
+    {
+      "name": "Stickman War",
+      "url": "https://azgames.io/stickman-war",
+      "current_likes": 939,
+      "previous_likes": 933,
+      "increase": 6
+    },
+    {
+      "name": "Jelly Runner",
+      "url": "https://azgames.io/jelly-runner",
+      "current_likes": 330,
+      "previous_likes": 326,
       "increase": 4
     }
   ]
