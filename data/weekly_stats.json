@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-01-31T23:28:42.857145",
+  "timestamp": "2026-02-01T23:31:53.890613",
   "top_10": [
     {
       "name": "Slap Champions",
       "url": "https://azgames.io/slap-champions",
-      "current_likes": 763,
+      "current_likes": 778,
       "previous_likes": 0,
-      "increase": 763
+      "increase": 778
     },
     {
       "name": "Crazy Shark",
       "url": "https://azgames.io/crazy-shark",
-      "current_likes": 687,
+      "current_likes": 719,
       "previous_likes": 0,
-      "increase": 687
+      "increase": 719
     },
     {
       "name": "Ice Baby Quest",
       "url": "https://azgames.io/ice-baby-quest",
-      "current_likes": 759,
-      "previous_likes": 190,
+      "current_likes": 772,
+      "previous_likes": 203,
       "increase": 569
     },
     {
       "name": "Slope Rider 3D",
       "url": "https://azgames.io/slope-rider-3d",
-      "current_likes": 693,
-      "previous_likes": 399,
-      "increase": 294
+      "current_likes": 702,
+      "previous_likes": 417,
+      "increase": 285
     },
     {
       "name": "Ragdoll Arena",
       "url": "https://azgames.io/ragdoll-arena",
-      "current_likes": 721,
-      "previous_likes": 459,
-      "increase": 262
-    },
-    {
-      "name": "Wheelie Master",
-      "url": "https://azgames.io/wheelie-master",
-      "current_likes": 914,
-      "previous_likes": 753,
-      "increase": 161
+      "current_likes": 730,
+      "previous_likes": 470,
+      "increase": 260
     },
     {
       "name": "Rooftop Rush",
       "url": "https://azgames.io/rooftop-rush",
-      "current_likes": 151,
+      "current_likes": 162,
       "previous_likes": 0,
-      "increase": 151
+      "increase": 162
+    },
+    {
+      "name": "Wheelie Master",
+      "url": "https://azgames.io/wheelie-master",
+      "current_likes": 919,
+      "previous_likes": 765,
+      "increase": 154
     },
     {
       "name": "Dunk Clash",
       "url": "https://azgames.io/dunk-clash",
-      "current_likes": 934,
-      "previous_likes": 828,
-      "increase": 106
+      "current_likes": 938,
+      "previous_likes": 831,
+      "increase": 107
     },
     {
       "name": "Dino Age",
       "url": "https://azgames.io/dino-age",
-      "current_likes": 856,
-      "previous_likes": 768,
-      "increase": 88
+      "current_likes": 860,
+      "previous_likes": 776,
+      "increase": 84
     },
     {
       "name": "Arcade Tennis",
       "url": "https://azgames.io/arcade-tennis",
       "current_likes": 447,
-      "previous_likes": 408,
-      "increase": 39
+      "previous_likes": 409,
+      "increase": 38
     }
   ]
 }
