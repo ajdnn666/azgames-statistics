@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-02-03T23:34:18.716188",
+  "timestamp": "2026-02-04T23:34:37.793169",
   "top_10": [
-    {
-      "name": "Crazy Shark",
-      "url": "https://azgames.io/crazy-shark",
-      "current_likes": 979,
-      "previous_likes": 0,
-      "increase": 979
-    },
-    {
-      "name": "Slap Champions",
-      "url": "https://azgames.io/slap-champions",
-      "current_likes": 958,
-      "previous_likes": 346,
-      "increase": 612
-    },
     {
       "name": "Ice Baby Quest",
       "url": "https://azgames.io/ice-baby-quest",
-      "current_likes": 921,
-      "previous_likes": 413,
-      "increase": 508
+      "current_likes": 988,
+      "previous_likes": 518,
+      "increase": 470
     },
     {
       "name": "Slope Rider 3D",
       "url": "https://azgames.io/slope-rider-3d",
-      "current_likes": 837,
-      "previous_likes": 502,
-      "increase": 335
+      "current_likes": 898,
+      "previous_likes": 550,
+      "increase": 348
     },
     {
       "name": "Rooftop Rush",
       "url": "https://azgames.io/rooftop-rush",
-      "current_likes": 259,
+      "current_likes": 300,
       "previous_likes": 0,
-      "increase": 259
-    },
-    {
-      "name": "Ragdoll Arena",
-      "url": "https://azgames.io/ragdoll-arena",
-      "current_likes": 798,
-      "previous_likes": 556,
-      "increase": 242
+      "increase": 300
     },
     {
       "name": "Flipping Master",
       "url": "https://azgames.io/flipping-master",
-      "current_likes": 200,
+      "current_likes": 278,
       "previous_likes": 0,
-      "increase": 200
+      "increase": 278
     },
     {
-      "name": "Wheelie Master",
-      "url": "https://azgames.io/wheelie-master",
-      "current_likes": 974,
-      "previous_likes": 810,
-      "increase": 164
+      "name": "Ragdoll Arena",
+      "url": "https://azgames.io/ragdoll-arena",
+      "current_likes": 831,
+      "previous_likes": 614,
+      "increase": 217
     },
     {
-      "name": "Dunk Clash",
-      "url": "https://azgames.io/dunk-clash",
-      "current_likes": 984,
-      "previous_likes": 850,
-      "increase": 134
+      "name": "Rob Brainrot 2",
+      "url": "https://azgames.io/rob-brainrot-2",
+      "current_likes": 181,
+      "previous_likes": 0,
+      "increase": 181
     },
     {
       "name": "Dino Age",
       "url": "https://azgames.io/dino-age",
-      "current_likes": 889,
-      "previous_likes": 804,
-      "increase": 85
+      "current_likes": 908,
+      "previous_likes": 818,
+      "increase": 90
+    },
+    {
+      "name": "Tap Rich Idle",
+      "url": "https://azgames.io/tap-rich-idle",
+      "current_likes": 514,
+      "previous_likes": 460,
+      "increase": 54
+    },
+    {
+      "name": "Loop Crash",
+      "url": "https://azgames.io/loop-crash",
+      "current_likes": 430,
+      "previous_likes": 381,
+      "increase": 49
+    },
+    {
+      "name": "Arcade Tennis",
+      "url": "https://azgames.io/arcade-tennis",
+      "current_likes": 466,
+      "previous_likes": 433,
+      "increase": 33
     }
   ]
 }
