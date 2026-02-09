@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-02-08T23:38:31.739899",
+  "timestamp": "2026-02-09T23:42:21.403389",
   "top_10": [
-    {
-      "name": "Rob Brainrot 2",
-      "url": "https://azgames.io/rob-brainrot-2",
-      "current_likes": 580,
-      "previous_likes": 556,
-      "increase": 24
-    },
     {
       "name": "Bucket Smash",
       "url": "https://azgames.io/bucket-smash",
-      "current_likes": 423,
-      "previous_likes": 400,
-      "increase": 23
+      "current_likes": 603,
+      "previous_likes": 423,
+      "increase": 180
     },
     {
-      "name": "Rooftop Rush",
-      "url": "https://azgames.io/rooftop-rush",
-      "current_likes": 377,
-      "previous_likes": 369,
-      "increase": 8
+      "name": "Golf Puzzle",
+      "url": "https://azgames.io/golf-puzzle",
+      "current_likes": 146,
+      "previous_likes": 0,
+      "increase": 146
+    },
+    {
+      "name": "Rob Brainrot 2",
+      "url": "https://azgames.io/rob-brainrot-2",
+      "current_likes": 689,
+      "previous_likes": 580,
+      "increase": 109
     },
     {
       "name": "Flipping Master",
       "url": "https://azgames.io/flipping-master",
-      "current_likes": 424,
-      "previous_likes": 419,
-      "increase": 5
+      "current_likes": 453,
+      "previous_likes": 424,
+      "increase": 29
+    },
+    {
+      "name": "Rooftop Rush",
+      "url": "https://azgames.io/rooftop-rush",
+      "current_likes": 403,
+      "previous_likes": 377,
+      "increase": 26
     },
     {
       "name": "Ragdoll Arena",
       "url": "https://azgames.io/ragdoll-arena",
-      "current_likes": 907,
-      "previous_likes": 902,
-      "increase": 5
+      "current_likes": 925,
+      "previous_likes": 907,
+      "increase": 18
     },
     {
       "name": "Dino Age",
       "url": "https://azgames.io/dino-age",
-      "current_likes": 945,
-      "previous_likes": 943,
-      "increase": 2
+      "current_likes": 955,
+      "previous_likes": 945,
+      "increase": 10
+    },
+    {
+      "name": "Tap Rich Idle",
+      "url": "https://azgames.io/tap-rich-idle",
+      "current_likes": 539,
+      "previous_likes": 531,
+      "increase": 8
+    },
+    {
+      "name": "Spin Blast",
+      "url": "https://azgames.io/spin-blast",
+      "current_likes": 302,
+      "previous_likes": 298,
+      "increase": 4
     },
     {
       "name": "Loop Crash",
       "url": "https://azgames.io/loop-crash",
-      "current_likes": 442,
-      "previous_likes": 440,
-      "increase": 2
-    },
-    {
-      "name": "Wheelie Party",
-      "url": "https://azgames.io/wheelie-party",
-      "current_likes": 823,
-      "previous_likes": 821,
-      "increase": 2
-    },
-    {
-      "name": "Blocky Rider",
-      "url": "https://azgames.io/blocky-rider",
-      "current_likes": 608,
-      "previous_likes": 606,
-      "increase": 2
-    },
-    {
-      "name": "Arcade Tennis",
-      "url": "https://azgames.io/arcade-tennis",
-      "current_likes": 480,
-      "previous_likes": 479,
-      "increase": 1
+      "current_likes": 445,
+      "previous_likes": 442,
+      "increase": 3
     }
   ]
 }
