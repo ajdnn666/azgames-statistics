@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-02-14T23:30:40.391861",
+  "timestamp": "2026-02-15T23:33:21.295437",
   "top_10": [
     {
       "name": "Golf Puzzle",
       "url": "https://azgames.io/golf-puzzle",
-      "current_likes": 380,
+      "current_likes": 386,
       "previous_likes": 0,
-      "increase": 380
+      "increase": 386
     },
     {
       "name": "Rob A Car",
       "url": "https://azgames.io/rob-a-car",
-      "current_likes": 281,
+      "current_likes": 286,
       "previous_likes": 0,
-      "increase": 281
+      "increase": 286
     },
     {
       "name": "Sorry Bob",
       "url": "https://azgames.io/sorry-bob",
-      "current_likes": 244,
+      "current_likes": 258,
       "previous_likes": 0,
-      "increase": 244
+      "increase": 258
     },
     {
       "name": "Flipping Master",
       "url": "https://azgames.io/flipping-master",
-      "current_likes": 591,
-      "previous_likes": 413,
-      "increase": 178
+      "current_likes": 596,
+      "previous_likes": 419,
+      "increase": 177
     },
     {
       "name": "Rooftop Rush",
       "url": "https://azgames.io/rooftop-rush",
-      "current_likes": 490,
-      "previous_likes": 365,
-      "increase": 125
+      "current_likes": 498,
+      "previous_likes": 369,
+      "increase": 129
+    },
+    {
+      "name": "Arcade Tennis",
+      "url": "https://azgames.io/arcade-tennis",
+      "current_likes": 516,
+      "previous_likes": 479,
+      "increase": 37
     },
     {
       "name": "Tap Rich Idle",
       "url": "https://azgames.io/tap-rich-idle",
       "current_likes": 567,
-      "previous_likes": 526,
-      "increase": 41
+      "previous_likes": 530,
+      "increase": 37
     },
     {
       "name": "Loop Crash",
       "url": "https://azgames.io/loop-crash",
-      "current_likes": 475,
-      "previous_likes": 435,
-      "increase": 40
-    },
-    {
-      "name": "Arcade Tennis",
-      "url": "https://azgames.io/arcade-tennis",
-      "current_likes": 514,
-      "previous_likes": 477,
-      "increase": 37
+      "current_likes": 476,
+      "previous_likes": 440,
+      "increase": 36
     },
     {
       "name": "Blocky Rider",
       "url": "https://azgames.io/blocky-rider",
-      "current_likes": 628,
+      "current_likes": 627,
       "previous_likes": 606,
-      "increase": 22
+      "increase": 21
     },
     {
-      "name": "Jelly Runner",
-      "url": "https://azgames.io/jelly-runner",
-      "current_likes": 507,
-      "previous_likes": 487,
-      "increase": 20
+      "name": "Spin Blast",
+      "url": "https://azgames.io/spin-blast",
+      "current_likes": 316,
+      "previous_likes": 298,
+      "increase": 18
     }
   ]
 }
