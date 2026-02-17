@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-02-16T23:35:31.764758",
+  "timestamp": "2026-02-17T23:35:07.350183",
   "top_10": [
-    {
-      "name": "Orbit Rush",
-      "url": "https://azgames.io/orbit-rush",
-      "current_likes": 47,
-      "previous_likes": 0,
-      "increase": 47
-    },
     {
       "name": "Sorry Bob",
       "url": "https://azgames.io/sorry-bob",
-      "current_likes": 296,
-      "previous_likes": 258,
-      "increase": 38
+      "current_likes": 398,
+      "previous_likes": 296,
+      "increase": 102
+    },
+    {
+      "name": "Orbit Rush",
+      "url": "https://azgames.io/orbit-rush",
+      "current_likes": 133,
+      "previous_likes": 47,
+      "increase": 86
     },
     {
       "name": "Rob A Car",
       "url": "https://azgames.io/rob-a-car",
-      "current_likes": 304,
-      "previous_likes": 286,
-      "increase": 18
+      "current_likes": 332,
+      "previous_likes": 304,
+      "increase": 28
     },
     {
       "name": "Golf Puzzle",
       "url": "https://azgames.io/golf-puzzle",
-      "current_likes": 400,
-      "previous_likes": 386,
-      "increase": 14
+      "current_likes": 424,
+      "previous_likes": 400,
+      "increase": 24
     },
     {
       "name": "Flipping Master",
       "url": "https://azgames.io/flipping-master",
-      "current_likes": 604,
-      "previous_likes": 596,
-      "increase": 8
+      "current_likes": 616,
+      "previous_likes": 604,
+      "increase": 12
     },
     {
       "name": "Rooftop Rush",
       "url": "https://azgames.io/rooftop-rush",
-      "current_likes": 502,
-      "previous_likes": 498,
-      "increase": 4
-    },
-    {
-      "name": "Tap Rich Idle",
-      "url": "https://azgames.io/tap-rich-idle",
-      "current_likes": 570,
-      "previous_likes": 567,
-      "increase": 3
+      "current_likes": 514,
+      "previous_likes": 502,
+      "increase": 12
     },
     {
       "name": "Loop Crash",
       "url": "https://azgames.io/loop-crash",
-      "current_likes": 478,
-      "previous_likes": 476,
-      "increase": 2
+      "current_likes": 484,
+      "previous_likes": 478,
+      "increase": 6
     },
     {
       "name": "Arcade Tennis",
       "url": "https://azgames.io/arcade-tennis",
-      "current_likes": 518,
-      "previous_likes": 516,
-      "increase": 2
+      "current_likes": 524,
+      "previous_likes": 518,
+      "increase": 6
     },
     {
-      "name": "Mad Racers",
-      "url": "https://azgames.io/mad-racers",
-      "current_likes": 766,
-      "previous_likes": 764,
-      "increase": 2
+      "name": "Tap Rich Idle",
+      "url": "https://azgames.io/tap-rich-idle",
+      "current_likes": 576,
+      "previous_likes": 570,
+      "increase": 6
+    },
+    {
+      "name": "Jelly Runner",
+      "url": "https://azgames.io/jelly-runner",
+      "current_likes": 510,
+      "previous_likes": 507,
+      "increase": 3
     }
   ]
 }
