@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-02-22T23:32:48.493446",
+  "timestamp": "2026-02-23T23:39:56.340588",
   "top_10": [
+    {
+      "name": "Ragdoll Flip",
+      "url": "https://azgames.io/ragdoll-flip",
+      "current_likes": 194,
+      "previous_likes": 0,
+      "increase": 194
+    },
     {
       "name": "Sorry Bob",
       "url": "https://azgames.io/sorry-bob",
-      "current_likes": 733,
-      "previous_likes": 718,
-      "increase": 15
-    },
-    {
-      "name": "Retro Blaster",
-      "url": "https://azgames.io/retro-blaster",
-      "current_likes": 241,
-      "previous_likes": 233,
-      "increase": 8
+      "current_likes": 814,
+      "previous_likes": 733,
+      "increase": 81
     },
     {
       "name": "Pinball Master",
       "url": "https://azgames.io/pinball-master",
-      "current_likes": 157,
-      "previous_likes": 152,
-      "increase": 5
+      "current_likes": 192,
+      "previous_likes": 157,
+      "increase": 35
     },
     {
-      "name": "Golf Puzzle",
-      "url": "https://azgames.io/golf-puzzle",
-      "current_likes": 509,
-      "previous_likes": 504,
-      "increase": 5
-    },
-    {
-      "name": "Flipping Master",
-      "url": "https://azgames.io/flipping-master",
-      "current_likes": 690,
-      "previous_likes": 685,
-      "increase": 5
+      "name": "Retro Blaster",
+      "url": "https://azgames.io/retro-blaster",
+      "current_likes": 274,
+      "previous_likes": 241,
+      "increase": 33
     },
     {
       "name": "Rob A Car",
       "url": "https://azgames.io/rob-a-car",
-      "current_likes": 424,
-      "previous_likes": 420,
-      "increase": 4
+      "current_likes": 456,
+      "previous_likes": 424,
+      "increase": 32
+    },
+    {
+      "name": "Golf Puzzle",
+      "url": "https://azgames.io/golf-puzzle",
+      "current_likes": 531,
+      "previous_likes": 509,
+      "increase": 22
+    },
+    {
+      "name": "Flipping Master",
+      "url": "https://azgames.io/flipping-master",
+      "current_likes": 708,
+      "previous_likes": 690,
+      "increase": 18
     },
     {
       "name": "Orbit Rush",
       "url": "https://azgames.io/orbit-rush",
-      "current_likes": 269,
-      "previous_likes": 266,
-      "increase": 3
-    },
-    {
-      "name": "Escape Drive",
-      "url": "https://azgames.io/escape-drive",
-      "current_likes": 929,
-      "previous_likes": 926,
-      "increase": 3
-    },
-    {
-      "name": "Hoop Legends",
-      "url": "https://azgames.io/hoop-legends",
-      "current_likes": 319,
-      "previous_likes": 317,
-      "increase": 2
+      "current_likes": 284,
+      "previous_likes": 269,
+      "increase": 15
     },
     {
       "name": "Rooftop Rush",
       "url": "https://azgames.io/rooftop-rush",
-      "current_likes": 551,
-      "previous_likes": 550,
-      "increase": 1
+      "current_likes": 562,
+      "previous_likes": 551,
+      "increase": 11
+    },
+    {
+      "name": "Loop Crash",
+      "url": "https://azgames.io/loop-crash",
+      "current_likes": 504,
+      "previous_likes": 498,
+      "increase": 6
     }
   ]
 }
