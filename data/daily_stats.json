@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-02-28T23:28:02.284330",
+  "timestamp": "2026-03-01T23:30:09.355622",
   "top_10": [
-    {
-      "name": "Knife Master",
-      "url": "https://azgames.io/knife-master",
-      "current_likes": 238,
-      "previous_likes": 219,
-      "increase": 19
-    },
     {
       "name": "Ragdoll Flip",
       "url": "https://azgames.io/ragdoll-flip",
-      "current_likes": 726,
-      "previous_likes": 708,
-      "increase": 18
+      "current_likes": 741,
+      "previous_likes": 726,
+      "increase": 15
+    },
+    {
+      "name": "Knife Master",
+      "url": "https://azgames.io/knife-master",
+      "current_likes": 250,
+      "previous_likes": 238,
+      "increase": 12
     },
     {
       "name": "Ice Baby Quest 2",
       "url": "https://azgames.io/ice-baby-quest-2",
-      "current_likes": 406,
-      "previous_likes": 396,
-      "increase": 10
-    },
-    {
-      "name": "Rob A Car",
-      "url": "https://azgames.io/rob-a-car",
-      "current_likes": 555,
-      "previous_likes": 545,
-      "increase": 10
-    },
-    {
-      "name": "Golf Puzzle",
-      "url": "https://azgames.io/golf-puzzle",
-      "current_likes": 618,
-      "previous_likes": 612,
-      "increase": 6
+      "current_likes": 414,
+      "previous_likes": 406,
+      "increase": 8
     },
     {
       "name": "Retro Blaster",
       "url": "https://azgames.io/retro-blaster",
-      "current_likes": 377,
-      "previous_likes": 373,
+      "current_likes": 383,
+      "previous_likes": 377,
+      "increase": 6
+    },
+    {
+      "name": "Pinball Master",
+      "url": "https://azgames.io/pinball-master",
+      "current_likes": 323,
+      "previous_likes": 318,
+      "increase": 5
+    },
+    {
+      "name": "Rob A Car",
+      "url": "https://azgames.io/rob-a-car",
+      "current_likes": 559,
+      "previous_likes": 555,
       "increase": 4
     },
     {
       "name": "Orbit Rush",
       "url": "https://azgames.io/orbit-rush",
-      "current_likes": 391,
-      "previous_likes": 388,
+      "current_likes": 394,
+      "previous_likes": 391,
+      "increase": 3
+    },
+    {
+      "name": "Golf Puzzle",
+      "url": "https://azgames.io/golf-puzzle",
+      "current_likes": 621,
+      "previous_likes": 618,
       "increase": 3
     },
     {
       "name": "Flipping Master",
       "url": "https://azgames.io/flipping-master",
-      "current_likes": 759,
-      "previous_likes": 756,
-      "increase": 3
+      "current_likes": 760,
+      "previous_likes": 759,
+      "increase": 1
     },
     {
-      "name": "Pinball Master",
-      "url": "https://azgames.io/pinball-master",
-      "current_likes": 318,
-      "previous_likes": 316,
-      "increase": 2
-    },
-    {
-      "name": "Rooftop Rush",
-      "url": "https://azgames.io/rooftop-rush",
-      "current_likes": 594,
-      "previous_likes": 592,
-      "increase": 2
+      "name": "Loop Crash",
+      "url": "https://azgames.io/loop-crash",
+      "current_likes": 528,
+      "previous_likes": 527,
+      "increase": 1
     }
   ]
 }
