@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-03-07T23:28:44.637236",
+  "timestamp": "2026-03-08T23:30:51.650686",
   "top_10": [
     {
       "name": "Skip It",
       "url": "https://azgames.io/skip-it",
-      "current_likes": 968,
+      "current_likes": 990,
       "previous_likes": 0,
-      "increase": 968
+      "increase": 990
     },
     {
       "name": "Crazy Taxi",
       "url": "https://azgames.io/crazy-taxi",
-      "current_likes": 423,
+      "current_likes": 431,
       "previous_likes": 0,
-      "increase": 423
+      "increase": 431
     },
     {
       "name": "Knife Master",
       "url": "https://azgames.io/knife-master",
-      "current_likes": 545,
-      "previous_likes": 238,
-      "increase": 307
+      "current_likes": 554,
+      "previous_likes": 250,
+      "increase": 304
     },
     {
       "name": "Ice Baby Quest 2",
       "url": "https://azgames.io/ice-baby-quest-2",
-      "current_likes": 654,
-      "previous_likes": 406,
-      "increase": 248
+      "current_likes": 661,
+      "previous_likes": 414,
+      "increase": 247
     },
     {
       "name": "Fish It Online",
       "url": "https://azgames.io/fish-it-online",
-      "current_likes": 224,
+      "current_likes": 242,
       "previous_likes": 0,
-      "increase": 224
+      "increase": 242
     },
     {
       "name": "Retro Blaster",
       "url": "https://azgames.io/retro-blaster",
-      "current_likes": 472,
-      "previous_likes": 377,
-      "increase": 95
+      "current_likes": 471,
+      "previous_likes": 383,
+      "increase": 88
     },
     {
       "name": "Pinball Master",
       "url": "https://azgames.io/pinball-master",
-      "current_likes": 399,
-      "previous_likes": 318,
-      "increase": 81
+      "current_likes": 405,
+      "previous_likes": 323,
+      "increase": 82
     },
     {
       "name": "Orbit Rush",
       "url": "https://azgames.io/orbit-rush",
-      "current_likes": 463,
-      "previous_likes": 391,
+      "current_likes": 466,
+      "previous_likes": 394,
       "increase": 72
     },
     {
       "name": "Golf Puzzle",
       "url": "https://azgames.io/golf-puzzle",
-      "current_likes": 679,
-      "previous_likes": 618,
+      "current_likes": 682,
+      "previous_likes": 621,
       "increase": 61
     },
     {
       "name": "Rob A Car",
       "url": "https://azgames.io/rob-a-car",
-      "current_likes": 612,
-      "previous_likes": 555,
-      "increase": 57
+      "current_likes": 615,
+      "previous_likes": 559,
+      "increase": 56
     }
   ]
 }
