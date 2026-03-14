@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-03-13T23:35:14.739654",
+  "timestamp": "2026-03-14T23:33:43.293080",
   "top_10": [
     {
       "name": "Bottle Hop",
       "url": "https://azgames.io/bottle-hop",
-      "current_likes": 278,
-      "previous_likes": 0,
-      "increase": 278
-    },
-    {
-      "name": "Fish It Online",
-      "url": "https://azgames.io/fish-it-online",
-      "current_likes": 640,
-      "previous_likes": 565,
-      "increase": 75
+      "current_likes": 329,
+      "previous_likes": 278,
+      "increase": 51
     },
     {
       "name": "Crazy Taxi",
       "url": "https://azgames.io/crazy-taxi",
-      "current_likes": 688,
-      "previous_likes": 641,
-      "increase": 47
-    },
-    {
-      "name": "Knife Master",
-      "url": "https://azgames.io/knife-master",
-      "current_likes": 729,
-      "previous_likes": 693,
-      "increase": 36
-    },
-    {
-      "name": "Ice Baby Quest 2",
-      "url": "https://azgames.io/ice-baby-quest-2",
-      "current_likes": 777,
-      "previous_likes": 761,
+      "current_likes": 704,
+      "previous_likes": 688,
       "increase": 16
     },
     {
-      "name": "Flipping Master",
-      "url": "https://azgames.io/flipping-master",
-      "current_likes": 855,
-      "previous_likes": 843,
-      "increase": 12
-    },
-    {
-      "name": "Pinball Master",
-      "url": "https://azgames.io/pinball-master",
-      "current_likes": 462,
-      "previous_likes": 453,
-      "increase": 9
+      "name": "Fish It Online",
+      "url": "https://azgames.io/fish-it-online",
+      "current_likes": 651,
+      "previous_likes": 640,
+      "increase": 11
     },
     {
       "name": "Rob A Car",
       "url": "https://azgames.io/rob-a-car",
-      "current_likes": 660,
-      "previous_likes": 653,
+      "current_likes": 667,
+      "previous_likes": 660,
       "increase": 7
+    },
+    {
+      "name": "Ice Baby Quest 2",
+      "url": "https://azgames.io/ice-baby-quest-2",
+      "current_likes": 783,
+      "previous_likes": 777,
+      "increase": 6
+    },
+    {
+      "name": "Flipping Master",
+      "url": "https://azgames.io/flipping-master",
+      "current_likes": 860,
+      "previous_likes": 855,
+      "increase": 5
+    },
+    {
+      "name": "Knife Master",
+      "url": "https://azgames.io/knife-master",
+      "current_likes": 733,
+      "previous_likes": 729,
+      "increase": 4
     },
     {
       "name": "Rooftop Rush",
       "url": "https://azgames.io/rooftop-rush",
-      "current_likes": 663,
-      "previous_likes": 656,
-      "increase": 7
+      "current_likes": 666,
+      "previous_likes": 663,
+      "increase": 3
     },
     {
-      "name": "Retro Blaster",
-      "url": "https://azgames.io/retro-blaster",
-      "current_likes": 500,
+      "name": "Pinball Master",
+      "url": "https://azgames.io/pinball-master",
+      "current_likes": 464,
+      "previous_likes": 462,
+      "increase": 2
+    },
+    {
+      "name": "Orbit Rush",
+      "url": "https://azgames.io/orbit-rush",
+      "current_likes": 496,
       "previous_likes": 494,
-      "increase": 6
+      "increase": 2
     }
   ]
 }
