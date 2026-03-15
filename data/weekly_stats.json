@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-03-14T23:33:43.295286",
+  "timestamp": "2026-03-15T23:35:31.046026",
   "top_10": [
     {
       "name": "Fish It Online",
       "url": "https://azgames.io/fish-it-online",
-      "current_likes": 651,
-      "previous_likes": 224,
-      "increase": 427
+      "current_likes": 664,
+      "previous_likes": 242,
+      "increase": 422
     },
     {
       "name": "Bottle Hop",
       "url": "https://azgames.io/bottle-hop",
-      "current_likes": 329,
+      "current_likes": 360,
       "previous_likes": 0,
-      "increase": 329
+      "increase": 360
     },
     {
       "name": "Lift Off",
@@ -25,8 +25,8 @@
     {
       "name": "Crazy Taxi",
       "url": "https://azgames.io/crazy-taxi",
-      "current_likes": 704,
-      "previous_likes": 423,
+      "current_likes": 712,
+      "previous_likes": 431,
       "increase": 281
     },
     {
@@ -39,37 +39,37 @@
     {
       "name": "Knife Master",
       "url": "https://azgames.io/knife-master",
-      "current_likes": 733,
-      "previous_likes": 545,
-      "increase": 188
+      "current_likes": 737,
+      "previous_likes": 554,
+      "increase": 183
     },
     {
       "name": "Ice Baby Quest 2",
       "url": "https://azgames.io/ice-baby-quest-2",
-      "current_likes": 783,
-      "previous_likes": 654,
-      "increase": 129
+      "current_likes": 786,
+      "previous_likes": 661,
+      "increase": 125
     },
     {
       "name": "Flipping Master",
       "url": "https://azgames.io/flipping-master",
-      "current_likes": 860,
-      "previous_likes": 793,
-      "increase": 67
+      "current_likes": 859,
+      "previous_likes": 795,
+      "increase": 64
     },
     {
       "name": "Pinball Master",
       "url": "https://azgames.io/pinball-master",
-      "current_likes": 464,
-      "previous_likes": 399,
-      "increase": 65
+      "current_likes": 466,
+      "previous_likes": 405,
+      "increase": 61
     },
     {
       "name": "Rob A Car",
       "url": "https://azgames.io/rob-a-car",
-      "current_likes": 667,
-      "previous_likes": 612,
-      "increase": 55
+      "current_likes": 673,
+      "previous_likes": 615,
+      "increase": 58
     }
   ]
 }
