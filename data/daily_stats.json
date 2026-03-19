@@ -1,74 +1,74 @@
 {
-  "timestamp": "2026-03-18T23:36:17.637065",
+  "timestamp": "2026-03-19T23:36:18.065670",
   "top_10": [
-    {
-      "name": "Dead Strike",
-      "url": "https://azgames.io/dead-strike",
-      "current_likes": 156,
-      "previous_likes": 0,
-      "increase": 156
-    },
     {
       "name": "Goo Goo Gaga Clicker",
       "url": "https://azgames.io/goo-goo-gaga-clicker",
-      "current_likes": 406,
-      "previous_likes": 284,
-      "increase": 122
+      "current_likes": 511,
+      "previous_likes": 406,
+      "increase": 105
     },
     {
       "name": "Bottle Hop",
       "url": "https://azgames.io/bottle-hop",
-      "current_likes": 715,
-      "previous_likes": 608,
-      "increase": 107
+      "current_likes": 820,
+      "previous_likes": 715,
+      "increase": 105
     },
     {
-      "name": "Fish It Online",
-      "url": "https://azgames.io/fish-it-online",
-      "current_likes": 779,
-      "previous_likes": 743,
-      "increase": 36
+      "name": "Dead Strike",
+      "url": "https://azgames.io/dead-strike",
+      "current_likes": 257,
+      "previous_likes": 156,
+      "increase": 101
     },
     {
       "name": "Crazy Taxi",
       "url": "https://azgames.io/crazy-taxi",
-      "current_likes": 786,
-      "previous_likes": 762,
-      "increase": 24
+      "current_likes": 809,
+      "previous_likes": 786,
+      "increase": 23
     },
     {
-      "name": "Ice Baby Quest 2",
-      "url": "https://azgames.io/ice-baby-quest-2",
-      "current_likes": 827,
-      "previous_likes": 810,
+      "name": "Fish It Online",
+      "url": "https://azgames.io/fish-it-online",
+      "current_likes": 796,
+      "previous_likes": 779,
       "increase": 17
     },
     {
       "name": "Knife Master",
       "url": "https://azgames.io/knife-master",
-      "current_likes": 785,
-      "previous_likes": 771,
+      "current_likes": 801,
+      "previous_likes": 785,
+      "increase": 16
+    },
+    {
+      "name": "Ice Baby Quest 2",
+      "url": "https://azgames.io/ice-baby-quest-2",
+      "current_likes": 841,
+      "previous_likes": 827,
       "increase": 14
     },
     {
-      "name": "Flipping Master",
-      "url": "https://azgames.io/flipping-master",
-      "current_likes": 886,
-      "previous_likes": 874,
-      "increase": 12
+      "name": "Pinball Master",
+      "url": "https://azgames.io/pinball-master",
+      "current_likes": 492,
+      "previous_likes": 485,
+      "increase": 7
     },
     {
-      "name": "Rooftop Rush",
-      "url": "https://azgames.io/rooftop-rush",
-      "current_likes": 693,
+      "name": "Rob A Car",
+      "url": "https://azgames.io/rob-a-car",
+      "current_likes": 689,
       "previous_likes": 684,
-      "increase": 9
+      "increase": 5
     },
     {
-      "name": "Retro Blaster",
-      "url": "https://azgames.io/retro-blaster",
-      "current_likes": 508,
-      "previous_likes": 503,
+      "name": "Golf Puzzle",
+      "url": "https://azgames.io/golf-puzzle",
+      "current_likes": 751,
+      "previous_likes": 746,
       "increase": 5
     }
   ]
