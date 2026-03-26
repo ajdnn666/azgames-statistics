@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-03-25T23:41:03.530030",
+  "timestamp": "2026-03-26T23:38:13.938674",
   "top_10": [
     {
       "name": "Wave Rider",
       "url": "https://azgames.io/wave-rider",
-      "current_likes": 544,
+      "current_likes": 656,
       "previous_likes": 0,
-      "increase": 544
+      "increase": 656
     },
     {
       "name": "Goo Goo Gaga Clicker",
       "url": "https://azgames.io/goo-goo-gaga-clicker",
-      "current_likes": 870,
-      "previous_likes": 406,
-      "increase": 464
-    },
-    {
-      "name": "Dead Strike",
-      "url": "https://azgames.io/dead-strike",
-      "current_likes": 453,
-      "previous_likes": 156,
-      "increase": 297
+      "current_likes": 954,
+      "previous_likes": 511,
+      "increase": 443
     },
     {
       "name": "Ragdoll Launcher",
       "url": "https://azgames.io/ragdoll-launcher",
-      "current_likes": 275,
+      "current_likes": 316,
       "previous_likes": 0,
-      "increase": 275
+      "increase": 316
     },
     {
       "name": "Flip Rush",
       "url": "https://azgames.io/flip-rush",
-      "current_likes": 151,
+      "current_likes": 245,
       "previous_likes": 0,
-      "increase": 151
+      "increase": 245
+    },
+    {
+      "name": "Dead Strike",
+      "url": "https://azgames.io/dead-strike",
+      "current_likes": 485,
+      "previous_likes": 257,
+      "increase": 228
     },
     {
       "name": "2048 Rogue",
       "url": "https://azgames.io/2048-rogue",
-      "current_likes": 130,
+      "current_likes": 140,
       "previous_likes": 0,
-      "increase": 130
-    },
-    {
-      "name": "Crazy Taxi",
-      "url": "https://azgames.io/crazy-taxi",
-      "current_likes": 911,
-      "previous_likes": 786,
-      "increase": 125
+      "increase": 140
     },
     {
       "name": "Fish It Online",
       "url": "https://azgames.io/fish-it-online",
-      "current_likes": 903,
-      "previous_likes": 779,
-      "increase": 124
+      "current_likes": 928,
+      "previous_likes": 796,
+      "increase": 132
+    },
+    {
+      "name": "Crazy Taxi",
+      "url": "https://azgames.io/crazy-taxi",
+      "current_likes": 934,
+      "previous_likes": 809,
+      "increase": 125
     },
     {
       "name": "Knife Master",
       "url": "https://azgames.io/knife-master",
-      "current_likes": 849,
-      "previous_likes": 785,
-      "increase": 64
+      "current_likes": 859,
+      "previous_likes": 801,
+      "increase": 58
     },
     {
       "name": "Ice Baby Quest 2",
       "url": "https://azgames.io/ice-baby-quest-2",
-      "current_likes": 876,
-      "previous_likes": 827,
-      "increase": 49
+      "current_likes": 882,
+      "previous_likes": 841,
+      "increase": 41
     }
   ]
 }
