@@ -1,74 +1,74 @@
 {
-  "timestamp": "2026-03-31T23:39:57.854629",
+  "timestamp": "2026-04-01T23:42:19.047859",
   "top_10": [
+    {
+      "name": "Astro Tycoon",
+      "url": "https://azgames.io/astro-tycoon",
+      "current_likes": 140,
+      "previous_likes": 0,
+      "increase": 140
+    },
+    {
+      "name": "Stick Hero Rpg",
+      "url": "https://azgames.io/stick-hero-rpg",
+      "current_likes": 115,
+      "previous_likes": 0,
+      "increase": 115
+    },
     {
       "name": "Wacky Steps",
       "url": "https://azgames.io/wacky-steps",
-      "current_likes": 268,
-      "previous_likes": 146,
-      "increase": 122
-    },
-    {
-      "name": "Wave Rider",
-      "url": "https://azgames.io/wave-rider",
-      "current_likes": 980,
-      "previous_likes": 902,
-      "increase": 78
-    },
-    {
-      "name": "Flip Rush",
-      "url": "https://azgames.io/flip-rush",
-      "current_likes": 460,
-      "previous_likes": 405,
-      "increase": 55
+      "current_likes": 369,
+      "previous_likes": 268,
+      "increase": 101
     },
     {
       "name": "Escape Animals",
       "url": "https://azgames.io/escape-animals",
-      "current_likes": 237,
-      "previous_likes": 195,
-      "increase": 42
+      "current_likes": 282,
+      "previous_likes": 237,
+      "increase": 45
+    },
+    {
+      "name": "Flip Rush",
+      "url": "https://azgames.io/flip-rush",
+      "current_likes": 499,
+      "previous_likes": 460,
+      "increase": 39
     },
     {
       "name": "Ragdoll Launcher",
       "url": "https://azgames.io/ragdoll-launcher",
-      "current_likes": 430,
-      "previous_likes": 401,
-      "increase": 29
+      "current_likes": 446,
+      "previous_likes": 430,
+      "increase": 16
     },
     {
       "name": "Dead Strike",
       "url": "https://azgames.io/dead-strike",
-      "current_likes": 555,
-      "previous_likes": 539,
+      "current_likes": 571,
+      "previous_likes": 555,
       "increase": 16
     },
     {
       "name": "Fish It Online",
       "url": "https://azgames.io/fish-it-online",
-      "current_likes": 983,
-      "previous_likes": 969,
-      "increase": 14
+      "current_likes": 996,
+      "previous_likes": 983,
+      "increase": 13
     },
     {
-      "name": "2048 Rogue",
-      "url": "https://azgames.io/2048-rogue",
-      "current_likes": 163,
-      "previous_likes": 157,
-      "increase": 6
-    },
-    {
-      "name": "Ice Baby Quest 2",
-      "url": "https://azgames.io/ice-baby-quest-2",
-      "current_likes": 913,
-      "previous_likes": 908,
-      "increase": 5
+      "name": "Knife Master",
+      "url": "https://azgames.io/knife-master",
+      "current_likes": 881,
+      "previous_likes": 873,
+      "increase": 8
     },
     {
       "name": "Golf Puzzle",
       "url": "https://azgames.io/golf-puzzle",
-      "current_likes": 798,
-      "previous_likes": 793,
+      "current_likes": 803,
+      "previous_likes": 798,
       "increase": 5
     }
   ]
