@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-04-01T23:42:19.049870",
+  "timestamp": "2026-04-02T23:41:01.858740",
   "top_10": [
     {
       "name": "Wacky Steps",
       "url": "https://azgames.io/wacky-steps",
-      "current_likes": 369,
+      "current_likes": 453,
       "previous_likes": 0,
-      "increase": 369
-    },
-    {
-      "name": "Flip Rush",
-      "url": "https://azgames.io/flip-rush",
-      "current_likes": 499,
-      "previous_likes": 151,
-      "increase": 348
+      "increase": 453
     },
     {
       "name": "Escape Animals",
       "url": "https://azgames.io/escape-animals",
-      "current_likes": 282,
+      "current_likes": 328,
       "previous_likes": 0,
-      "increase": 282
+      "increase": 328
     },
     {
-      "name": "Ragdoll Launcher",
-      "url": "https://azgames.io/ragdoll-launcher",
-      "current_likes": 446,
-      "previous_likes": 275,
-      "increase": 171
-    },
-    {
-      "name": "Astro Tycoon",
-      "url": "https://azgames.io/astro-tycoon",
-      "current_likes": 140,
-      "previous_likes": 0,
-      "increase": 140
-    },
-    {
-      "name": "Dead Strike",
-      "url": "https://azgames.io/dead-strike",
-      "current_likes": 571,
-      "previous_likes": 453,
-      "increase": 118
+      "name": "Flip Rush",
+      "url": "https://azgames.io/flip-rush",
+      "current_likes": 554,
+      "previous_likes": 245,
+      "increase": 309
     },
     {
       "name": "Stick Hero Rpg",
       "url": "https://azgames.io/stick-hero-rpg",
-      "current_likes": 115,
+      "current_likes": 204,
       "previous_likes": 0,
-      "increase": 115
+      "increase": 204
     },
     {
-      "name": "Fish It Online",
-      "url": "https://azgames.io/fish-it-online",
-      "current_likes": 996,
-      "previous_likes": 903,
-      "increase": 93
+      "name": "Astro Tycoon",
+      "url": "https://azgames.io/astro-tycoon",
+      "current_likes": 202,
+      "previous_likes": 0,
+      "increase": 202
+    },
+    {
+      "name": "Ragdoll Launcher",
+      "url": "https://azgames.io/ragdoll-launcher",
+      "current_likes": 458,
+      "previous_likes": 316,
+      "increase": 142
+    },
+    {
+      "name": "Dead Strike",
+      "url": "https://azgames.io/dead-strike",
+      "current_likes": 584,
+      "previous_likes": 485,
+      "increase": 99
     },
     {
       "name": "Ice Baby Quest 2",
       "url": "https://azgames.io/ice-baby-quest-2",
-      "current_likes": 916,
-      "previous_likes": 876,
-      "increase": 40
+      "current_likes": 923,
+      "previous_likes": 882,
+      "increase": 41
     },
     {
       "name": "2048 Rogue",
       "url": "https://azgames.io/2048-rogue",
-      "current_likes": 165,
-      "previous_likes": 130,
-      "increase": 35
+      "current_likes": 169,
+      "previous_likes": 140,
+      "increase": 29
+    },
+    {
+      "name": "Knife Master",
+      "url": "https://azgames.io/knife-master",
+      "current_likes": 885,
+      "previous_likes": 859,
+      "increase": 26
     }
   ]
 }
