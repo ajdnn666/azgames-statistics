@@ -1,74 +1,74 @@
 {
-  "timestamp": "2026-04-06T23:41:40.488748",
+  "timestamp": "2026-04-07T23:43:07.664322",
   "top_10": [
     {
-      "name": "Wacky Steps",
-      "url": "https://azgames.io/wacky-steps",
-      "current_likes": 543,
-      "previous_likes": 146,
-      "increase": 397
+      "name": "Escape Road 3",
+      "url": "https://azgames.io/escape-road-3",
+      "current_likes": 352,
+      "previous_likes": 0,
+      "increase": 352
     },
     {
       "name": "Stick Hero Rpg",
       "url": "https://azgames.io/stick-hero-rpg",
-      "current_likes": 290,
+      "current_likes": 344,
       "previous_likes": 0,
-      "increase": 290
+      "increase": 344
+    },
+    {
+      "name": "Wacky Steps",
+      "url": "https://azgames.io/wacky-steps",
+      "current_likes": 598,
+      "previous_likes": 268,
+      "increase": 330
     },
     {
       "name": "Astro Tycoon",
       "url": "https://azgames.io/astro-tycoon",
-      "current_likes": 251,
+      "current_likes": 288,
       "previous_likes": 0,
-      "increase": 251
-    },
-    {
-      "name": "Flip Rush",
-      "url": "https://azgames.io/flip-rush",
-      "current_likes": 607,
-      "previous_likes": 405,
-      "increase": 202
-    },
-    {
-      "name": "Escape Animals",
-      "url": "https://azgames.io/escape-animals",
-      "current_likes": 370,
-      "previous_likes": 195,
-      "increase": 175
+      "increase": 288
     },
     {
       "name": "Red Face Horror",
       "url": "https://azgames.io/red-face-horror",
-      "current_likes": 171,
+      "current_likes": 260,
       "previous_likes": 0,
-      "increase": 171
+      "increase": 260
     },
     {
-      "name": "Escape Road 3",
-      "url": "https://azgames.io/escape-road-3",
-      "current_likes": 159,
-      "previous_likes": 0,
-      "increase": 159
+      "name": "Flip Rush",
+      "url": "https://azgames.io/flip-rush",
+      "current_likes": 635,
+      "previous_likes": 460,
+      "increase": 175
+    },
+    {
+      "name": "Escape Animals",
+      "url": "https://azgames.io/escape-animals",
+      "current_likes": 395,
+      "previous_likes": 237,
+      "increase": 158
     },
     {
       "name": "Ragdoll Launcher",
       "url": "https://azgames.io/ragdoll-launcher",
-      "current_likes": 480,
-      "previous_likes": 401,
-      "increase": 79
+      "current_likes": 491,
+      "previous_likes": 430,
+      "increase": 61
     },
     {
       "name": "Dead Strike",
       "url": "https://azgames.io/dead-strike",
-      "current_likes": 597,
-      "previous_likes": 539,
-      "increase": 58
+      "current_likes": 603,
+      "previous_likes": 555,
+      "increase": 48
     },
     {
-      "name": "Ice Baby Quest 2",
-      "url": "https://azgames.io/ice-baby-quest-2",
-      "current_likes": 932,
-      "previous_likes": 908,
+      "name": "Knife Master",
+      "url": "https://azgames.io/knife-master",
+      "current_likes": 897,
+      "previous_likes": 873,
       "increase": 24
     }
   ]
