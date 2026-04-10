@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-04-09T23:42:53.472741",
+  "timestamp": "2026-04-10T23:41:26.647592",
   "top_10": [
     {
       "name": "Escape Road 3",
       "url": "https://azgames.io/escape-road-3",
-      "current_likes": 663,
-      "previous_likes": 518,
-      "increase": 145
+      "current_likes": 831,
+      "previous_likes": 663,
+      "increase": 168
     },
     {
-      "name": "Wacky Steps",
-      "url": "https://azgames.io/wacky-steps",
-      "current_likes": 767,
-      "previous_likes": 674,
-      "increase": 93
+      "name": "Bow Battle",
+      "url": "https://azgames.io/bow-battle",
+      "current_likes": 129,
+      "previous_likes": 0,
+      "increase": 129
     },
     {
       "name": "Red Face Horror",
       "url": "https://azgames.io/red-face-horror",
-      "current_likes": 428,
-      "previous_likes": 345,
-      "increase": 83
+      "current_likes": 525,
+      "previous_likes": 428,
+      "increase": 97
     },
     {
-      "name": "Office Fury",
-      "url": "https://azgames.io/office-fury",
-      "current_likes": 146,
-      "previous_likes": 98,
-      "increase": 48
-    },
-    {
-      "name": "Lift Off 2",
-      "url": "https://azgames.io/lift-off-2",
-      "current_likes": 120,
-      "previous_likes": 73,
-      "increase": 47
+      "name": "Wacky Steps",
+      "url": "https://azgames.io/wacky-steps",
+      "current_likes": 854,
+      "previous_likes": 767,
+      "increase": 87
     },
     {
       "name": "Stick Hero Rpg",
       "url": "https://azgames.io/stick-hero-rpg",
-      "current_likes": 435,
-      "previous_likes": 395,
-      "increase": 40
+      "current_likes": 487,
+      "previous_likes": 435,
+      "increase": 52
     },
     {
-      "name": "Flip Rush",
-      "url": "https://azgames.io/flip-rush",
-      "current_likes": 694,
-      "previous_likes": 658,
-      "increase": 36
+      "name": "Lift Off 2",
+      "url": "https://azgames.io/lift-off-2",
+      "current_likes": 155,
+      "previous_likes": 120,
+      "increase": 35
     },
     {
       "name": "Astro Tycoon",
       "url": "https://azgames.io/astro-tycoon",
-      "current_likes": 330,
-      "previous_likes": 312,
-      "increase": 18
+      "current_likes": 364,
+      "previous_likes": 330,
+      "increase": 34
     },
     {
       "name": "Escape Animals",
       "url": "https://azgames.io/escape-animals",
-      "current_likes": 431,
-      "previous_likes": 418,
-      "increase": 13
+      "current_likes": 460,
+      "previous_likes": 431,
+      "increase": 29
     },
     {
-      "name": "Ragdoll Launcher",
-      "url": "https://azgames.io/ragdoll-launcher",
-      "current_likes": 512,
-      "previous_likes": 504,
-      "increase": 8
+      "name": "Office Fury",
+      "url": "https://azgames.io/office-fury",
+      "current_likes": 171,
+      "previous_likes": 146,
+      "increase": 25
+    },
+    {
+      "name": "Flip Rush",
+      "url": "https://azgames.io/flip-rush",
+      "current_likes": 719,
+      "previous_likes": 694,
+      "increase": 25
     }
   ]
 }
