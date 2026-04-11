@@ -1,490 +1,5 @@
 [
   {
-    "timestamp": "2026-03-12T23:34:44.764856",
-    "games": [
-      {
-        "name": "Escape Tsunami Brainrots Online",
-        "url": "https://azgames.io/escape-tsunami-brainrots-online",
-        "likes": 416,
-        "scraped_at": "2026-03-12T23:30:21.514576"
-      },
-      {
-        "name": "Lift Off",
-        "url": "https://azgames.io/lift-off",
-        "likes": 644,
-        "scraped_at": "2026-03-12T23:30:21.527764"
-      },
-      {
-        "name": "Fish It Online",
-        "url": "https://azgames.io/fish-it-online",
-        "likes": 565,
-        "scraped_at": "2026-03-12T23:30:21.540383"
-      },
-      {
-        "name": "Crazy Taxi",
-        "url": "https://azgames.io/crazy-taxi",
-        "likes": 641,
-        "scraped_at": "2026-03-12T23:30:21.552831"
-      },
-      {
-        "name": "Skip It",
-        "url": "https://azgames.io/skip-it",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:21.565642"
-      },
-      {
-        "name": "Knife Master",
-        "url": "https://azgames.io/knife-master",
-        "likes": 693,
-        "scraped_at": "2026-03-12T23:30:21.578602"
-      },
-      {
-        "name": "Ice Baby Quest 2",
-        "url": "https://azgames.io/ice-baby-quest-2",
-        "likes": 761,
-        "scraped_at": "2026-03-12T23:30:21.591072"
-      },
-      {
-        "name": "Ragdoll Flip",
-        "url": "https://azgames.io/ragdoll-flip",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:21.603599"
-      },
-      {
-        "name": "Pinball Master",
-        "url": "https://azgames.io/pinball-master",
-        "likes": 453,
-        "scraped_at": "2026-03-12T23:30:21.615942"
-      },
-      {
-        "name": "Retro Blaster",
-        "url": "https://azgames.io/retro-blaster",
-        "likes": 494,
-        "scraped_at": "2026-03-12T23:30:21.628406"
-      },
-      {
-        "name": "Orbit Rush",
-        "url": "https://azgames.io/orbit-rush",
-        "likes": 489,
-        "scraped_at": "2026-03-12T23:30:21.640575"
-      },
-      {
-        "name": "Sorry Bob",
-        "url": "https://azgames.io/sorry-bob",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:21.653089"
-      },
-      {
-        "name": "Rob A Car",
-        "url": "https://azgames.io/rob-a-car",
-        "likes": 653,
-        "scraped_at": "2026-03-12T23:30:21.665447"
-      },
-      {
-        "name": "Golf Puzzle",
-        "url": "https://azgames.io/golf-puzzle",
-        "likes": 722,
-        "scraped_at": "2026-03-12T23:30:21.677929"
-      },
-      {
-        "name": "Bucket Smash",
-        "url": "https://azgames.io/bucket-smash",
-        "likes": 2,
-        "scraped_at": "2026-03-12T23:30:21.690238"
-      },
-      {
-        "name": "Rob Brainrot 2",
-        "url": "https://azgames.io/rob-brainrot-2",
-        "likes": 2,
-        "scraped_at": "2026-03-12T23:30:21.702359"
-      },
-      {
-        "name": "Flipping Master",
-        "url": "https://azgames.io/flipping-master",
-        "likes": 843,
-        "scraped_at": "2026-03-12T23:30:21.714808"
-      },
-      {
-        "name": "Rooftop Rush",
-        "url": "https://azgames.io/rooftop-rush",
-        "likes": 656,
-        "scraped_at": "2026-03-12T23:30:21.727113"
-      },
-      {
-        "name": "Crazy Shark",
-        "url": "https://azgames.io/crazy-shark",
-        "likes": 2,
-        "scraped_at": "2026-03-12T23:30:21.739772"
-      },
-      {
-        "name": "Slap Champions",
-        "url": "https://azgames.io/slap-champions",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:21.752327"
-      },
-      {
-        "name": "Ice Baby Quest",
-        "url": "https://azgames.io/ice-baby-quest",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:21.764795"
-      },
-      {
-        "name": "Ragdoll Arena",
-        "url": "https://azgames.io/ragdoll-arena",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:21.777403"
-      },
-      {
-        "name": "Slope Rider 3D",
-        "url": "https://azgames.io/slope-rider-3d",
-        "likes": 2,
-        "scraped_at": "2026-03-12T23:30:21.790050"
-      },
-      {
-        "name": "Horror Nun",
-        "url": "https://azgames.io/horror-nun",
-        "likes": 2,
-        "scraped_at": "2026-03-12T23:30:21.805281"
-      },
-      {
-        "name": "Animal Craft",
-        "url": "https://azgames.io/animal-craft",
-        "likes": 2,
-        "scraped_at": "2026-03-12T23:30:21.820122"
-      },
-      {
-        "name": "Plants Vs Brainrots Online",
-        "url": "https://azgames.io/plants-vs-brainrots-online",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:21.833263"
-      },
-      {
-        "name": "Police Drive",
-        "url": "https://azgames.io/police-drive",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:21.845476"
-      },
-      {
-        "name": "Dino Age",
-        "url": "https://azgames.io/dino-age",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:21.857999"
-      },
-      {
-        "name": "Glide In",
-        "url": "https://azgames.io/glide-in",
-        "likes": 3,
-        "scraped_at": "2026-03-12T23:30:21.870445"
-      },
-      {
-        "name": "Loop Crash",
-        "url": "https://azgames.io/loop-crash",
-        "likes": 536,
-        "scraped_at": "2026-03-12T23:30:21.883036"
-      },
-      {
-        "name": "Spin Blast",
-        "url": "https://azgames.io/spin-blast",
-        "likes": 348,
-        "scraped_at": "2026-03-12T23:30:21.895509"
-      },
-      {
-        "name": "Dunk Clash",
-        "url": "https://azgames.io/dunk-clash",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:21.908095"
-      },
-      {
-        "name": "Arcade Tennis",
-        "url": "https://azgames.io/arcade-tennis",
-        "likes": 558,
-        "scraped_at": "2026-03-12T23:30:21.920712"
-      },
-      {
-        "name": "Car Chaos",
-        "url": "https://azgames.io/car-chaos",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:21.933308"
-      },
-      {
-        "name": "Tap Rich Idle",
-        "url": "https://azgames.io/tap-rich-idle",
-        "likes": 619,
-        "scraped_at": "2026-03-12T23:30:21.950913"
-      },
-      {
-        "name": "Wheelie Master",
-        "url": "https://azgames.io/wheelie-master",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:21.963757"
-      },
-      {
-        "name": "Jelly Runner",
-        "url": "https://azgames.io/jelly-runner",
-        "likes": 517,
-        "scraped_at": "2026-03-12T23:30:21.976472"
-      },
-      {
-        "name": "Slide Down",
-        "url": "https://azgames.io/slide-down",
-        "likes": 3,
-        "scraped_at": "2026-03-12T23:30:21.988719"
-      },
-      {
-        "name": "Tiny Arena",
-        "url": "https://azgames.io/tiny-arena",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:22.000925"
-      },
-      {
-        "name": "Santa Run",
-        "url": "https://azgames.io/santa-run",
-        "likes": 401,
-        "scraped_at": "2026-03-12T23:30:22.012994"
-      },
-      {
-        "name": "Bounce Path",
-        "url": "https://azgames.io/bounce-path",
-        "likes": 369,
-        "scraped_at": "2026-03-12T23:30:22.025245"
-      },
-      {
-        "name": "Stickman War",
-        "url": "https://azgames.io/stickman-war",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:22.037762"
-      },
-      {
-        "name": "Undead Invasion",
-        "url": "https://azgames.io/undead-invasion",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:22.050153"
-      },
-      {
-        "name": "Wheelie Party",
-        "url": "https://azgames.io/wheelie-party",
-        "likes": 880,
-        "scraped_at": "2026-03-12T23:30:22.062588"
-      },
-      {
-        "name": "Merge Infinity",
-        "url": "https://azgames.io/merge-infinity",
-        "likes": 495,
-        "scraped_at": "2026-03-12T23:30:22.075539"
-      },
-      {
-        "name": "Tap Drift",
-        "url": "https://azgames.io/tap-drift",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:22.088637"
-      },
-      {
-        "name": "Orbit Kick",
-        "url": "https://azgames.io/orbit-kick",
-        "likes": 4,
-        "scraped_at": "2026-03-12T23:30:22.101395"
-      },
-      {
-        "name": "Bat Smash",
-        "url": "https://azgames.io/bat-smash",
-        "likes": 2,
-        "scraped_at": "2026-03-12T23:30:22.113834"
-      },
-      {
-        "name": "Orbit Beats",
-        "url": "https://azgames.io/orbit-beats",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:22.126452"
-      },
-      {
-        "name": "Crafty Car",
-        "url": "https://azgames.io/crafty-car",
-        "likes": 356,
-        "scraped_at": "2026-03-12T23:30:22.139221"
-      },
-      {
-        "name": "City Brawl",
-        "url": "https://azgames.io/city-brawl",
-        "likes": 2,
-        "scraped_at": "2026-03-12T23:30:22.151815"
-      },
-      {
-        "name": "Mad Trails",
-        "url": "https://azgames.io/mad-trails",
-        "likes": 334,
-        "scraped_at": "2026-03-12T23:30:22.164380"
-      },
-      {
-        "name": "Hyper Tunnel",
-        "url": "https://azgames.io/hyper-tunnel",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:22.177248"
-      },
-      {
-        "name": "Blocky Rider",
-        "url": "https://azgames.io/blocky-rider",
-        "likes": 658,
-        "scraped_at": "2026-03-12T23:30:22.189900"
-      },
-      {
-        "name": "Flying Ball",
-        "url": "https://azgames.io/flying-ball",
-        "likes": 553,
-        "scraped_at": "2026-03-12T23:30:22.202839"
-      },
-      {
-        "name": "Color Rhythm",
-        "url": "https://azgames.io/color-rhythm",
-        "likes": 516,
-        "scraped_at": "2026-03-12T23:30:22.215338"
-      },
-      {
-        "name": "Ramp Xtreme",
-        "url": "https://azgames.io/ramp-xtreme",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:22.227996"
-      },
-      {
-        "name": "Dancing Beat",
-        "url": "https://azgames.io/dancing-beat",
-        "likes": 965,
-        "scraped_at": "2026-03-12T23:30:22.240175"
-      },
-      {
-        "name": "Cowboy Safari",
-        "url": "https://azgames.io/cowboy-safari",
-        "likes": 5,
-        "scraped_at": "2026-03-12T23:30:22.252513"
-      },
-      {
-        "name": "Escape Drive",
-        "url": "https://azgames.io/escape-drive",
-        "likes": 977,
-        "scraped_at": "2026-03-12T23:30:22.265140"
-      },
-      {
-        "name": "Mad Racers",
-        "url": "https://azgames.io/mad-racers",
-        "likes": 796,
-        "scraped_at": "2026-03-12T23:30:22.277679"
-      },
-      {
-        "name": "Steal Brainrots",
-        "url": "https://azgames.io/steal-brainrots",
-        "likes": 6,
-        "scraped_at": "2026-03-12T23:30:22.289945"
-      },
-      {
-        "name": "Slope Xtreme",
-        "url": "https://azgames.io/slope-xtreme",
-        "likes": 713,
-        "scraped_at": "2026-03-12T23:30:22.302477"
-      },
-      {
-        "name": "Mad Pursuit",
-        "url": "https://azgames.io/mad-pursuit",
-        "likes": 579,
-        "scraped_at": "2026-03-12T23:30:22.314733"
-      },
-      {
-        "name": "Undead Corridor",
-        "url": "https://azgames.io/undead-corridor",
-        "likes": 12,
-        "scraped_at": "2026-03-12T23:30:22.327651"
-      },
-      {
-        "name": "Color Jump",
-        "url": "https://azgames.io/color-jump",
-        "likes": 376,
-        "scraped_at": "2026-03-12T23:30:22.340077"
-      },
-      {
-        "name": "Blendrix",
-        "url": "https://azgames.io/blendrix",
-        "likes": 256,
-        "scraped_at": "2026-03-12T23:30:22.352325"
-      },
-      {
-        "name": "Stack Rush",
-        "url": "https://azgames.io/stack-rush",
-        "likes": 424,
-        "scraped_at": "2026-03-12T23:30:22.364303"
-      },
-      {
-        "name": "Rocket Fortress",
-        "url": "https://azgames.io/rocket-fortress",
-        "likes": 4,
-        "scraped_at": "2026-03-12T23:30:22.376807"
-      },
-      {
-        "name": "Perfect Orbit",
-        "url": "https://azgames.io/perfect-orbit",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:22.389160"
-      },
-      {
-        "name": "Planet Buster",
-        "url": "https://azgames.io/planet-buster",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:22.401733"
-      },
-      {
-        "name": "Stickman Empires",
-        "url": "https://azgames.io/stickman-empires",
-        "likes": 3,
-        "scraped_at": "2026-03-12T23:30:22.414670"
-      },
-      {
-        "name": "Chase Rush",
-        "url": "https://azgames.io/chase-rush",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:22.427070"
-      },
-      {
-        "name": "Swipe Ball",
-        "url": "https://azgames.io/swipe-ball",
-        "likes": 731,
-        "scraped_at": "2026-03-12T23:30:22.439382"
-      },
-      {
-        "name": "Mr Flip",
-        "url": "https://azgames.io/mr-flip",
-        "likes": 3,
-        "scraped_at": "2026-03-12T23:30:22.451597"
-      },
-      {
-        "name": "Blocky Rush",
-        "url": "https://azgames.io/blocky-rush",
-        "likes": 258,
-        "scraped_at": "2026-03-12T23:30:22.463882"
-      },
-      {
-        "name": "Steel Legion",
-        "url": "https://azgames.io/steel-legion",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:22.476400"
-      },
-      {
-        "name": "Subway Moto",
-        "url": "https://azgames.io/subway-moto",
-        "likes": 479,
-        "scraped_at": "2026-03-12T23:30:22.488808"
-      },
-      {
-        "name": "Bounce Up",
-        "url": "https://azgames.io/bounce-up",
-        "likes": 952,
-        "scraped_at": "2026-03-12T23:30:22.501371"
-      },
-      {
-        "name": "Escape Raid",
-        "url": "https://azgames.io/escape-raid",
-        "likes": 1,
-        "scraped_at": "2026-03-12T23:30:22.513946"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-03-13T23:35:14.719638",
     "games": [
       {
@@ -14546,6 +14061,491 @@
         "url": "https://azgames.io/mad-pursuit",
         "likes": 586,
         "scraped_at": "2026-04-10T23:36:42.162866"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-11T23:40:41.910479",
+    "games": [
+      {
+        "name": "Bow Battle",
+        "url": "https://azgames.io/bow-battle",
+        "likes": 145,
+        "scraped_at": "2026-04-11T23:36:20.131611"
+      },
+      {
+        "name": "Office Fury",
+        "url": "https://azgames.io/office-fury",
+        "likes": 173,
+        "scraped_at": "2026-04-11T23:36:20.145463"
+      },
+      {
+        "name": "Lift Off 2",
+        "url": "https://azgames.io/lift-off-2",
+        "likes": 163,
+        "scraped_at": "2026-04-11T23:36:20.158345"
+      },
+      {
+        "name": "Escape Road 3",
+        "url": "https://azgames.io/escape-road-3",
+        "likes": 851,
+        "scraped_at": "2026-04-11T23:36:20.171329"
+      },
+      {
+        "name": "Red Face Horror",
+        "url": "https://azgames.io/red-face-horror",
+        "likes": 540,
+        "scraped_at": "2026-04-11T23:36:20.184464"
+      },
+      {
+        "name": "Astro Tycoon",
+        "url": "https://azgames.io/astro-tycoon",
+        "likes": 365,
+        "scraped_at": "2026-04-11T23:36:20.197586"
+      },
+      {
+        "name": "Stick Hero Rpg",
+        "url": "https://azgames.io/stick-hero-rpg",
+        "likes": 501,
+        "scraped_at": "2026-04-11T23:36:20.210155"
+      },
+      {
+        "name": "Wacky Steps",
+        "url": "https://azgames.io/wacky-steps",
+        "likes": 862,
+        "scraped_at": "2026-04-11T23:36:20.222712"
+      },
+      {
+        "name": "Escape Animals",
+        "url": "https://azgames.io/escape-animals",
+        "likes": 463,
+        "scraped_at": "2026-04-11T23:36:20.235042"
+      },
+      {
+        "name": "Flip Rush",
+        "url": "https://azgames.io/flip-rush",
+        "likes": 721,
+        "scraped_at": "2026-04-11T23:36:20.247993"
+      },
+      {
+        "name": "Wave Rider",
+        "url": "https://azgames.io/wave-rider",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:20.260609"
+      },
+      {
+        "name": "Ragdoll Launcher",
+        "url": "https://azgames.io/ragdoll-launcher",
+        "likes": 522,
+        "scraped_at": "2026-04-11T23:36:20.273070"
+      },
+      {
+        "name": "2048 Rogue",
+        "url": "https://azgames.io/2048-rogue",
+        "likes": 177,
+        "scraped_at": "2026-04-11T23:36:20.285618"
+      },
+      {
+        "name": "Dead Strike",
+        "url": "https://azgames.io/dead-strike",
+        "likes": 632,
+        "scraped_at": "2026-04-11T23:36:20.298013"
+      },
+      {
+        "name": "Goo Goo Gaga Clicker",
+        "url": "https://azgames.io/goo-goo-gaga-clicker",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:20.310689"
+      },
+      {
+        "name": "Bottle Hop",
+        "url": "https://azgames.io/bottle-hop",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:20.323192"
+      },
+      {
+        "name": "Escape Tsunami Brainrots Online",
+        "url": "https://azgames.io/escape-tsunami-brainrots-online",
+        "likes": 3,
+        "scraped_at": "2026-04-11T23:36:20.335242"
+      },
+      {
+        "name": "Lift Off",
+        "url": "https://azgames.io/lift-off",
+        "likes": 3,
+        "scraped_at": "2026-04-11T23:36:20.347586"
+      },
+      {
+        "name": "Fish It Online",
+        "url": "https://azgames.io/fish-it-online",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:20.359808"
+      },
+      {
+        "name": "Crazy Taxi",
+        "url": "https://azgames.io/crazy-taxi",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:20.372275"
+      },
+      {
+        "name": "Skip It",
+        "url": "https://azgames.io/skip-it",
+        "likes": 2,
+        "scraped_at": "2026-04-11T23:36:20.384687"
+      },
+      {
+        "name": "Knife Master",
+        "url": "https://azgames.io/knife-master",
+        "likes": 923,
+        "scraped_at": "2026-04-11T23:36:20.397159"
+      },
+      {
+        "name": "Ice Baby Quest 2",
+        "url": "https://azgames.io/ice-baby-quest-2",
+        "likes": 950,
+        "scraped_at": "2026-04-11T23:36:20.410113"
+      },
+      {
+        "name": "Ragdoll Flip",
+        "url": "https://azgames.io/ragdoll-flip",
+        "likes": 2,
+        "scraped_at": "2026-04-11T23:36:20.422773"
+      },
+      {
+        "name": "Pinball Master",
+        "url": "https://azgames.io/pinball-master",
+        "likes": 541,
+        "scraped_at": "2026-04-11T23:36:20.435946"
+      },
+      {
+        "name": "Retro Blaster",
+        "url": "https://azgames.io/retro-blaster",
+        "likes": 546,
+        "scraped_at": "2026-04-11T23:36:20.448242"
+      },
+      {
+        "name": "Orbit Rush",
+        "url": "https://azgames.io/orbit-rush",
+        "likes": 546,
+        "scraped_at": "2026-04-11T23:36:20.460518"
+      },
+      {
+        "name": "Sorry Bob",
+        "url": "https://azgames.io/sorry-bob",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:20.472943"
+      },
+      {
+        "name": "Rob A Car",
+        "url": "https://azgames.io/rob-a-car",
+        "likes": 760,
+        "scraped_at": "2026-04-11T23:36:20.485450"
+      },
+      {
+        "name": "Golf Puzzle",
+        "url": "https://azgames.io/golf-puzzle",
+        "likes": 811,
+        "scraped_at": "2026-04-11T23:36:20.497891"
+      },
+      {
+        "name": "Bucket Smash",
+        "url": "https://azgames.io/bucket-smash",
+        "likes": 3,
+        "scraped_at": "2026-04-11T23:36:20.510228"
+      },
+      {
+        "name": "Rob Brainrot 2",
+        "url": "https://azgames.io/rob-brainrot-2",
+        "likes": 2,
+        "scraped_at": "2026-04-11T23:36:20.522567"
+      },
+      {
+        "name": "Flipping Master",
+        "url": "https://azgames.io/flipping-master",
+        "likes": 931,
+        "scraped_at": "2026-04-11T23:36:20.534920"
+      },
+      {
+        "name": "Rooftop Rush",
+        "url": "https://azgames.io/rooftop-rush",
+        "likes": 726,
+        "scraped_at": "2026-04-11T23:36:20.551111"
+      },
+      {
+        "name": "Crazy Shark",
+        "url": "https://azgames.io/crazy-shark",
+        "likes": 2,
+        "scraped_at": "2026-04-11T23:36:20.565225"
+      },
+      {
+        "name": "Slap Champions",
+        "url": "https://azgames.io/slap-champions",
+        "likes": 2,
+        "scraped_at": "2026-04-11T23:36:20.578414"
+      },
+      {
+        "name": "Ice Baby Quest",
+        "url": "https://azgames.io/ice-baby-quest",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:20.591062"
+      },
+      {
+        "name": "Ragdoll Arena",
+        "url": "https://azgames.io/ragdoll-arena",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:20.603601"
+      },
+      {
+        "name": "Slope Rider 3D",
+        "url": "https://azgames.io/slope-rider-3d",
+        "likes": 3,
+        "scraped_at": "2026-04-11T23:36:20.615728"
+      },
+      {
+        "name": "Horror Nun",
+        "url": "https://azgames.io/horror-nun",
+        "likes": 2,
+        "scraped_at": "2026-04-11T23:36:20.628120"
+      },
+      {
+        "name": "Animal Craft",
+        "url": "https://azgames.io/animal-craft",
+        "likes": 2,
+        "scraped_at": "2026-04-11T23:36:20.640678"
+      },
+      {
+        "name": "Plants Vs Brainrots Online",
+        "url": "https://azgames.io/plants-vs-brainrots-online",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:20.653288"
+      },
+      {
+        "name": "Police Drive",
+        "url": "https://azgames.io/police-drive",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:20.665807"
+      },
+      {
+        "name": "Dino Age",
+        "url": "https://azgames.io/dino-age",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:20.678235"
+      },
+      {
+        "name": "Glide In",
+        "url": "https://azgames.io/glide-in",
+        "likes": 3,
+        "scraped_at": "2026-04-11T23:36:20.690558"
+      },
+      {
+        "name": "Loop Crash",
+        "url": "https://azgames.io/loop-crash",
+        "likes": 547,
+        "scraped_at": "2026-04-11T23:36:20.703774"
+      },
+      {
+        "name": "Spin Blast",
+        "url": "https://azgames.io/spin-blast",
+        "likes": 358,
+        "scraped_at": "2026-04-11T23:36:20.716460"
+      },
+      {
+        "name": "Dunk Clash",
+        "url": "https://azgames.io/dunk-clash",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:20.729035"
+      },
+      {
+        "name": "Arcade Tennis",
+        "url": "https://azgames.io/arcade-tennis",
+        "likes": 578,
+        "scraped_at": "2026-04-11T23:36:20.741901"
+      },
+      {
+        "name": "Car Chaos",
+        "url": "https://azgames.io/car-chaos",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:20.754904"
+      },
+      {
+        "name": "Tap Rich Idle",
+        "url": "https://azgames.io/tap-rich-idle",
+        "likes": 666,
+        "scraped_at": "2026-04-11T23:36:20.767771"
+      },
+      {
+        "name": "Wheelie Master",
+        "url": "https://azgames.io/wheelie-master",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:20.780278"
+      },
+      {
+        "name": "Jelly Runner",
+        "url": "https://azgames.io/jelly-runner",
+        "likes": 523,
+        "scraped_at": "2026-04-11T23:36:20.792955"
+      },
+      {
+        "name": "Slide Down",
+        "url": "https://azgames.io/slide-down",
+        "likes": 4,
+        "scraped_at": "2026-04-11T23:36:20.805269"
+      },
+      {
+        "name": "Tiny Arena",
+        "url": "https://azgames.io/tiny-arena",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:20.818316"
+      },
+      {
+        "name": "Santa Run",
+        "url": "https://azgames.io/santa-run",
+        "likes": 402,
+        "scraped_at": "2026-04-11T23:36:20.830681"
+      },
+      {
+        "name": "Bounce Path",
+        "url": "https://azgames.io/bounce-path",
+        "likes": 370,
+        "scraped_at": "2026-04-11T23:36:20.843157"
+      },
+      {
+        "name": "Stickman War",
+        "url": "https://azgames.io/stickman-war",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:20.855596"
+      },
+      {
+        "name": "Undead Invasion",
+        "url": "https://azgames.io/undead-invasion",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:20.868473"
+      },
+      {
+        "name": "Wheelie Party",
+        "url": "https://azgames.io/wheelie-party",
+        "likes": 916,
+        "scraped_at": "2026-04-11T23:36:20.880945"
+      },
+      {
+        "name": "Merge Infinity",
+        "url": "https://azgames.io/merge-infinity",
+        "likes": 517,
+        "scraped_at": "2026-04-11T23:36:20.893536"
+      },
+      {
+        "name": "Tap Drift",
+        "url": "https://azgames.io/tap-drift",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:20.905899"
+      },
+      {
+        "name": "Orbit Kick",
+        "url": "https://azgames.io/orbit-kick",
+        "likes": 5,
+        "scraped_at": "2026-04-11T23:36:20.918259"
+      },
+      {
+        "name": "Bat Smash",
+        "url": "https://azgames.io/bat-smash",
+        "likes": 2,
+        "scraped_at": "2026-04-11T23:36:20.931593"
+      },
+      {
+        "name": "Orbit Beats",
+        "url": "https://azgames.io/orbit-beats",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:20.943945"
+      },
+      {
+        "name": "Crafty Car",
+        "url": "https://azgames.io/crafty-car",
+        "likes": 371,
+        "scraped_at": "2026-04-11T23:36:20.956211"
+      },
+      {
+        "name": "City Brawl",
+        "url": "https://azgames.io/city-brawl",
+        "likes": 2,
+        "scraped_at": "2026-04-11T23:36:20.968737"
+      },
+      {
+        "name": "Mad Trails",
+        "url": "https://azgames.io/mad-trails",
+        "likes": 343,
+        "scraped_at": "2026-04-11T23:36:20.981080"
+      },
+      {
+        "name": "Hyper Tunnel",
+        "url": "https://azgames.io/hyper-tunnel",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:20.993593"
+      },
+      {
+        "name": "Blocky Rider",
+        "url": "https://azgames.io/blocky-rider",
+        "likes": 693,
+        "scraped_at": "2026-04-11T23:36:21.005974"
+      },
+      {
+        "name": "Flying Ball",
+        "url": "https://azgames.io/flying-ball",
+        "likes": 571,
+        "scraped_at": "2026-04-11T23:36:21.018301"
+      },
+      {
+        "name": "Color Rhythm",
+        "url": "https://azgames.io/color-rhythm",
+        "likes": 527,
+        "scraped_at": "2026-04-11T23:36:21.030627"
+      },
+      {
+        "name": "Ramp Xtreme",
+        "url": "https://azgames.io/ramp-xtreme",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:21.043290"
+      },
+      {
+        "name": "Dancing Beat",
+        "url": "https://azgames.io/dancing-beat",
+        "likes": 985,
+        "scraped_at": "2026-04-11T23:36:21.055317"
+      },
+      {
+        "name": "Cowboy Safari",
+        "url": "https://azgames.io/cowboy-safari",
+        "likes": 6,
+        "scraped_at": "2026-04-11T23:36:21.067557"
+      },
+      {
+        "name": "Escape Drive",
+        "url": "https://azgames.io/escape-drive",
+        "likes": 1,
+        "scraped_at": "2026-04-11T23:36:21.079787"
+      },
+      {
+        "name": "Mad Racers",
+        "url": "https://azgames.io/mad-racers",
+        "likes": 818,
+        "scraped_at": "2026-04-11T23:36:21.092300"
+      },
+      {
+        "name": "Steal Brainrots",
+        "url": "https://azgames.io/steal-brainrots",
+        "likes": 6,
+        "scraped_at": "2026-04-11T23:36:21.104795"
+      },
+      {
+        "name": "Slope Xtreme",
+        "url": "https://azgames.io/slope-xtreme",
+        "likes": 732,
+        "scraped_at": "2026-04-11T23:36:21.116884"
+      },
+      {
+        "name": "Mad Pursuit",
+        "url": "https://azgames.io/mad-pursuit",
+        "likes": 586,
+        "scraped_at": "2026-04-11T23:36:21.129003"
       }
     ]
   }
