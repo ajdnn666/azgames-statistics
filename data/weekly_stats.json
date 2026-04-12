@@ -1,75 +1,75 @@
 {
-  "timestamp": "2026-04-11T23:40:41.965780",
+  "timestamp": "2026-04-12T23:41:17.159108",
   "top_10": [
     {
       "name": "Escape Road 3",
       "url": "https://azgames.io/escape-road-3",
-      "current_likes": 851,
+      "current_likes": 877,
       "previous_likes": 0,
-      "increase": 851
+      "increase": 877
     },
     {
       "name": "Red Face Horror",
       "url": "https://azgames.io/red-face-horror",
-      "current_likes": 540,
-      "previous_likes": 96,
-      "increase": 444
+      "current_likes": 550,
+      "previous_likes": 114,
+      "increase": 436
     },
     {
       "name": "Wacky Steps",
       "url": "https://azgames.io/wacky-steps",
-      "current_likes": 862,
-      "previous_likes": 503,
-      "increase": 359
+      "current_likes": 866,
+      "previous_likes": 505,
+      "increase": 361
     },
     {
       "name": "Stick Hero Rpg",
       "url": "https://azgames.io/stick-hero-rpg",
-      "current_likes": 501,
-      "previous_likes": 263,
-      "increase": 238
+      "current_likes": 508,
+      "previous_likes": 268,
+      "increase": 240
     },
     {
       "name": "Office Fury",
       "url": "https://azgames.io/office-fury",
-      "current_likes": 173,
+      "current_likes": 174,
       "previous_likes": 0,
-      "increase": 173
+      "increase": 174
     },
     {
       "name": "Lift Off 2",
       "url": "https://azgames.io/lift-off-2",
-      "current_likes": 163,
+      "current_likes": 169,
       "previous_likes": 0,
-      "increase": 163
+      "increase": 169
     },
     {
       "name": "Bow Battle",
       "url": "https://azgames.io/bow-battle",
-      "current_likes": 145,
+      "current_likes": 159,
       "previous_likes": 0,
-      "increase": 145
-    },
-    {
-      "name": "Flip Rush",
-      "url": "https://azgames.io/flip-rush",
-      "current_likes": 721,
-      "previous_likes": 581,
-      "increase": 140
+      "increase": 159
     },
     {
       "name": "Astro Tycoon",
       "url": "https://azgames.io/astro-tycoon",
-      "current_likes": 365,
-      "previous_likes": 228,
-      "increase": 137
+      "current_likes": 371,
+      "previous_likes": 231,
+      "increase": 140
+    },
+    {
+      "name": "Flip Rush",
+      "url": "https://azgames.io/flip-rush",
+      "current_likes": 724,
+      "previous_likes": 588,
+      "increase": 136
     },
     {
       "name": "Escape Animals",
       "url": "https://azgames.io/escape-animals",
-      "current_likes": 463,
-      "previous_likes": 346,
-      "increase": 117
+      "current_likes": 472,
+      "previous_likes": 349,
+      "increase": 123
     }
   ]
 }
